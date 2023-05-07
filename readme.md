@@ -266,7 +266,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Pwoerlevel">
-                <img src="https://avatars.githubusercontent.com/u/96821915?v=4" width="50">
+                <img src="https://avatars.githubusercontent.com/u/96821915?v=4" width="70">
                 <br>
                 <h2>هاشم محمد</h2>
             </a>
