@@ -272,7 +272,7 @@
             <br>            
             <table>
                 <tr> 
-                    <!-- TWITTER -->
+                    <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/dr-almukhtar">
                             <img src="./images/github-logo.png" width="30">
