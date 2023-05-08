@@ -261,7 +261,55 @@
             </table>            
         </td>
     </tr>
-     <tr>
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mandela95">
+                <img src="https://avatars.githubusercontent.com/u/96991597?v=4" width="50">
+                <br>
+                <h2>Mohamed Elseady</h2>
+            </a>
+            <br>
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/MohElseady">
+                     </td>
+                     <!--// TWITTER //-->
+                     <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mo-seady/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/hamoelseady/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- // FACEBOOK // -->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/els3eedy/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- // INSTAGRAM // -->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Mandela95">
+                            <img src="./images/github-logo.png" width="30">
+                         </a>
+                    </td>
+                    <!--// GITHUB //-->
+                  </tr>
+                  </table>            
+        </td>
+    </tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/dr-almukhtar">
@@ -352,20 +400,7 @@
                         </a>
                     </td>
                     <!--// TWITTER //-->
-                    <!-- LINKED IN -->
-                    <td>
-                        <a href="https://www.linkedin.com/in/mohamed-boukhanouf-796583201/">
-                            <img src="./images/linkedin-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// LINKED IN //-->
-                    <!-- FACEBOOK -->
-                    <td>
-                        <a href="">
-                            <img src="./images/facebook-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// FACEBOOK //-->
+                   
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Mohamed-avr">
@@ -413,7 +448,8 @@
                 </tr>
             </table>
         </td>
-    
+    </tr>
+
     
 </table>
 <!--// CONTRIBUTER //-->
