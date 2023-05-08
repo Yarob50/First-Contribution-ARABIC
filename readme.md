@@ -413,6 +413,42 @@
                 </tr>
             </table>
         </td>
+        <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/maryam800">
+                <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="50">
+                <br>
+                <h2>Maryam Ali</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/MaryamA29096677">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/maryam-ali-191a53130/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/maryam800">
+                            <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
     
     
 </table>
