@@ -334,6 +334,49 @@
             </table>
         </td>
     </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohamed-avr">
+                <img src="https://avatars.githubusercontent.com/u/58856307?v=4" width="50">
+                <br>
+                <h2> mohamed boukhanouf </h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/MohamedBoukhan5">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohamed-boukhanouf-796583201/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Mohamed-avr">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
     
     
 </table>
