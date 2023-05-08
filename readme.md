@@ -261,7 +261,28 @@
             </table>            
         </td>
     </tr>
-     <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/dr-almukhtar">
+                <img src="https://avatars.githubusercontent.com/u/104250863?v=4" width="50">
+                <br>
+                <h2> Dr. Muhannad Almukhtar </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/dr-almukhtar">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -276,7 +297,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/SaifSaidi">
-                            <img src="./images/github-logo.png" width="30">
+                          <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
