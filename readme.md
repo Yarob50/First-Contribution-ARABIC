@@ -261,8 +261,80 @@
             </table>            
         </td>
     </tr>
-  <!-- ======== نهاية مكان النسخ ========= -->
      <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/dr-almukhtar">
+                <img src="https://avatars.githubusercontent.com/u/104250863?v=4" width="50">
+                <br>
+                <h2> Dr. Muhannad Almukhtar </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/dr-almukhtar">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/SaifSaidi">
+                <img src="https://avatars.githubusercontent.com/u/99614521?v=4" width="50">
+                <br>
+                <h2>Saif Saidi</h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/SaifSaidi">
+                          <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+            &nbsp;&nbsp
+            <a href="https://github.com/Mazin-Fouad">
+                <img src="https://avatars.githubusercontent.com/u/98177409?v=4" width="50" />
+                <br />
+                <h2>مازن فؤاد</h2>
+            </a>
+            <br />
+            <table>
+                <tr>
+                    <!-- LINKED IN -->
+                    <td>
+                    <a href="linkedin.com/in/mazin-fouad-332b36266">
+                        <img src="./images/linkedin-logo.png" width="30" />
+                    </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                    <a href="https://github.com/Mazin-Fouad">
+                        <img src="./images/github-logo.png" width="30" />
+                    </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Mohamed-avr">
@@ -272,7 +344,7 @@
             </a>
             <br>            
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MohamedBoukhan5">
@@ -289,7 +361,7 @@
                     <!--// LINKED IN //-->
                     <!-- FACEBOOK -->
                     <td>
-                        <a href="https://web.facebook.com/profile.php?id=100014856492651">
+                        <a href="">
                             <img src="./images/facebook-logo.png" width="30">
                         </a>
                     </td>
@@ -302,7 +374,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     
