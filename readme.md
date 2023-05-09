@@ -212,6 +212,37 @@
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
     <tr>
+      <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/nmcev">
+                <img src="https://avatars.githubusercontent.com/u/126491139?s=400&u=db4a798c603f1ff7a8af59737fb2d51495e5b7c8&v=4" width="50">
+                <br>
+                <h2>muha</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/muhammed-khalid-2058b5251/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/nmcev">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= -->
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
