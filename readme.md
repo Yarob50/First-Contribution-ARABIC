@@ -716,6 +716,49 @@
         </td>
     </tr>
     <!-- MUHA -->
-    
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/amirgendy">
+                <img src="https://avatars.githubusercontent.com/u/74946731?v=4" width="50">
+                <br>
+                <h2>Amir Gendy Botros</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/amir_gendy">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/amirgendybotros/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/AmirGendyBotros/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/amirgendy">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Amir Gendy Botros -->
 </table>
 <!--// CONTRIBUTER //-->
