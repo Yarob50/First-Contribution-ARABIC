@@ -416,6 +416,64 @@
         <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
+            <a href="https://github.com/NinaLoop">
+                <img src="https://avatars.githubusercontent.com/u/108150279?v=4" width="50">
+                <br>
+                <h2>NinaLoop</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/ninaloop_">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/NinaLoop">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Marouane-Ch21">
+                <img src="https://avatars.githubusercontent.com/u/132752171?v=4" width="50">
+                <br>
+                <h2>Marouane Ch</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/marouane_chf">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Marouane-Ch21">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
             <a href="https://github.com/maryam800">
                 <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="50">
                 <br>
@@ -441,7 +499,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/maryam800">
-                            <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="30">
+                            <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
