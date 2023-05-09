@@ -715,7 +715,43 @@
             </table>            
         </td>
     </tr>
-    <!-- MUHA -->
+    <!---OWIS BUKHARI-->
+      <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/owisqari">
+                <img src="https://avatars.githubusercontent.com/u/78686803?s=400&u=c3fada54cbca0bcfc67a3c4f7727c6dcba15ad64&v=4" width="50">
+                <br>
+                <h2>اويس بخاري</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/OwisBukhari">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="hhttps://www.linkedin.com/in/owis-bukhari-6a6b44184/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/owisqari">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
     
 </table>
 <!--// CONTRIBUTER //-->
