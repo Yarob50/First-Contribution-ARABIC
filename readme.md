@@ -261,6 +261,348 @@
             </table>            
         </td>
     </tr>
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/dr-almukhtar">
+                <img src="https://avatars.githubusercontent.com/u/104250863?v=4" width="50">
+                <br>
+                <h2> Dr. Muhannad Almukhtar </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/dr-almukhtar">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/SaifSaidi">
+                <img src="https://avatars.githubusercontent.com/u/99614521?v=4" width="50">
+                <br>
+                <h2>Saif Saidi</h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/SaifSaidi">
+                          <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+            &nbsp;&nbsp
+            <a href="https://github.com/Mazin-Fouad">
+                <img src="https://avatars.githubusercontent.com/u/98177409?v=4" width="50" />
+                <br />
+                <h2>مازن فؤاد</h2>
+            </a>
+            <br />
+            <table>
+                <tr>
+                    <!-- LINKED IN -->
+                    <td>
+                    <a href="linkedin.com/in/mazin-fouad-332b36266">
+                        <img src="./images/linkedin-logo.png" width="30" />
+                    </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                    <a href="https://github.com/Mazin-Fouad">
+                        <img src="./images/github-logo.png" width="30" />
+                    </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohamed-avr">
+                <img src="https://avatars.githubusercontent.com/u/58856307?v=4" width="50">
+                <br>
+                <h2> mohamed boukhanouf </h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/MohamedBoukhan5">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohamed-boukhanouf-796583201/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Mohamed-avr">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/youshakh">
+                <img src="https://avatars.githubusercontent.com/u/104216900?v=4" width="50">
+                <br>
+                <h2>yousha khadra</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/yousha.khadra">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@yousha_khadra?is_from_webapp=1&sender_device=pc">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/youshakh">
+                        <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+        <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/NinaLoop">
+                <img src="https://avatars.githubusercontent.com/u/108150279?v=4" width="50">
+                <br>
+                <h2>NinaLoop</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/ninaloop_">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/NinaLoop">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Marouane-Ch21">
+                <img src="https://avatars.githubusercontent.com/u/132752171?v=4" width="50">
+                <br>
+                <h2>Marouane Ch</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/marouane_chf">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Marouane-Ch21">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/maryam800">
+                <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="50">
+                <br>
+                <h2>Maryam Ali</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/MaryamA29096677">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/maryam-ali-191a53130/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/maryam800">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/kahkaj">
+                <img src="https://avatars.githubusercontent.com/u/71718084?v=4" width="50">
+                <br>
+                <h2>محمد محسن</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/Mohcine17619305">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/kahkaj">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- AHMAD SINAN -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Dev-AhmedOmer">
+                <img src="https://avatars.githubusercontent.com/u/111293004?s=400&u=dc206ec99e019c223712d6226b13abe44809ac63&v=4" width="50">
+                <br>
+                <h2>أحمد السناني</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href=
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/a7mdOmr/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <!-- <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a> -->
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@yarobhm">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Dev-AhmedOmer">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// AHMAD SINAN //-->
+    <!-- FAYYAD -->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -290,6 +632,7 @@
             </table>            
         </td>
     </tr>
+    <!--// FAYYAD //-->
     
     
 </table>
