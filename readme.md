@@ -716,6 +716,70 @@
         </td>
     </tr>
     <!-- MUHA -->
-    
+        <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/wesam-abutuaimeh">
+                <img src="https://avatars.githubusercontent.com/u/91456364?s=400&u=014d971f9ed6cce9097844a8ae84367aac18ebe9&v=4" style="width:50px ;height:50px ; border-radius:50%">
+                <br>
+                <h2>Wesam Abutaima</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/Wesam_Abutaima">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/wesam-abutaima-55b100272/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/wesam.abutaima/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://instagram.com/wesam.abutaima?igshid=ZGUzMzM3NWJiOQ==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <!-- <td>
+                        <a href="https://www.tiktok.com/@yarobhm">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// TIK TOK -->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/wesam-abutuaimeh">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- mostaql -->
+                    <td>
+                        <a href="https://mostaql.com/u/Wesam_Abutaima">
+                            <img src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg" width="40">
+                        </a>
+                    </td>
+                    <!--// mostaql //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= -->
 </table>
 <!--// CONTRIBUTER //-->
