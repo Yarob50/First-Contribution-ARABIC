@@ -260,51 +260,7 @@
                 </tr>
             </table>            
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="600">
-        &nbsp;&nbsp
-            <a href="https://github.com/abdulkerim-awad">
-                <img src="https://avatars.githubusercontent.com/u/79903897?v=4" width="50">
-                <br>
-                <h2>Abdulkerim Awad</h2>
-            </a>
-            <br>            
-            <table>
-                <tr> 
-                    <!-- GITHUB -->
-                    <td>
-                        <a href="https://github.com/abdulkerim-awad">
-                            <img src="./images/github-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// GITHUB //-->
-                    <!-- LINKED IN -->
-                    <td>
-                        <a href="https://www.linkedin.com/in/abdulkerim-awad-92652321a/">
-                            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-                        </a>
-                    </td>
-                    <!--// LINKED IN //-->
-                    <!-- CodeWars -->
-                    <td>
-                        <a href="https://www.codewars.com/users/AbdulkerimAwad">
-                            <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25>
-                        </a>
-                    </td>
-                    <!--// CodeWars //-->
-                    <!--// TIK TOK //-->
-                    <!-- stackoverflow -->
-                    <td>
-                        <a href="https://stackoverflow.com/users/14137474/abdulkerim">
-                            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
-                        </a>
-                    </td>
-                    <!--// stackoverflow //-->
-                </tr>
-            </table>            
-        </td>
-    </tr>
+    </tr>    
      <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -841,5 +797,51 @@
         </td>
     </tr>
     <!-- HamzaDev -->
+    <!-- ABDULKARIM -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/abdulkerim-awad">
+                <img src="https://avatars.githubusercontent.com/u/79903897?v=4" width="50">
+                <br>
+                <h2>Abdulkerim Awad</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/abdulkerim-awad">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdulkerim-awad-92652321a/">
+                            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- CodeWars -->
+                    <td>
+                        <a href="https://www.codewars.com/users/AbdulkerimAwad">
+                            <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// CodeWars //-->
+                    <!--// TIK TOK //-->
+                    <!-- stackoverflow -->
+                    <td>
+                        <a href="https://stackoverflow.com/users/14137474/abdulkerim">
+                            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// stackoverflow //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- // ABDULKARIM // -->
 </table>
 <!--// CONTRIBUTER //-->
