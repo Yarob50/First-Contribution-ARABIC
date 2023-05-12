@@ -445,10 +445,10 @@
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
-            <a href="https://github.com/Marouane-Ch21">
+            <a href="https://github.com/Marchq21">
                 <img src="https://avatars.githubusercontent.com/u/132752171?v=4" width="50">
                 <br>
-                <h2>Marouane Ch</h2>
+                <h2>Marouane Chq</h2>
             </a>
             <br>            
             <table>
@@ -462,7 +462,7 @@
                     <!--// TWITTER //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/Marouane-Ch21">
+                        <a href="https://github.com/Marchq21">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
