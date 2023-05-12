@@ -1172,5 +1172,36 @@
         </td>
     </tr>
     <!--// Omar //-->
+    <!--// HASHIM //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Pwoerlevel">
+                <img src="https://avatars.githubusercontent.com/u/96821915?v=4" width="70">
+                <br>
+                <h2>هاشم محمد</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/profile.php?id=100069366840910">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                      <!-- // FACEBOOK // -->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Pwoerlevel">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// HASHIM //-->
 </table>
 <!--// CONTRIBUTER //-->
