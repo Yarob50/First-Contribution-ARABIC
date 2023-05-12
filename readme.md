@@ -260,7 +260,7 @@
                 </tr>
             </table>            
         </td>
-    </tr>
+    </tr>    
      <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -445,10 +445,10 @@
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
-            <a href="https://github.com/Marouane-Ch21">
+            <a href="https://github.com/Marchq21">
                 <img src="https://avatars.githubusercontent.com/u/132752171?v=4" width="50">
                 <br>
-                <h2>Marouane Ch</h2>
+                <h2>Marouane Chq</h2>
             </a>
             <br>            
             <table>
@@ -462,7 +462,7 @@
                     <!--// TWITTER //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/Marouane-Ch21">
+                        <a href="https://github.com/Marchq21">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
@@ -716,6 +716,431 @@
         </td>
     </tr>
     <!-- MUHA -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohammed-Berir">
+                <img src="https://avatars.githubusercontent.com/u/20186596?v=4" width="50">
+                <br>
+                <h2>محمد مصطفى</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Mohammed-Berir">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- HamzaDev -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/HamzaElkotp">
+                <img src="https://avatars.githubusercontent.com/u/61008779?v=4" width="50">
+                <br>
+                <h2>HamzaDev //HamzaElkotb</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/HamzaElkotp">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/HamzaElkotp">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href=" https://www.youtube.com/@DevCoder">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/HamzaElkotp">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/HamzaElkotp">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/HamzaElkotp">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- HamzaDev -->
+    <!-- ABDULKARIM -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/abdulkerim-awad">
+                <img src="https://avatars.githubusercontent.com/u/79903897?v=4" width="50">
+                <br>
+                <h2>Abdulkerim Awad</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/abdulkerim-awad">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdulkerim-awad-92652321a/">
+                            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- CodeWars -->
+                    <td>
+                        <a href="https://www.codewars.com/users/AbdulkerimAwad">
+                            <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// CodeWars //-->
+                    <!--// TIK TOK //-->
+                    <!-- stackoverflow -->
+                    <td>
+                        <a href="https://stackoverflow.com/users/14137474/abdulkerim">
+                            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// stackoverflow //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- // ABDULKARIM // -->
+    <!-- Zakaria -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Zaki-Dz">
+                <img src="https://avatars.githubusercontent.com/u/54380152?v=4" width="50">
+                <br>
+                <h2>Zakaria Mameri</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/zakaria-mameri-149b13222/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Zaki-Dz">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Zakaria -->
+    <!-- AMIR Gendy-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/amirgendy">
+                <img src="https://avatars.githubusercontent.com/u/74946731?v=4" width="50">
+                <br>
+                <h2>Amir Gendy Botros</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/amir_gendy">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/amirgendybotros/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/AmirGendyBotros/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/amirgendy">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Amir Gendy Botros -->
+    <!---OWIS BUKHARI-->
+      <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/owisqari">
+                <img src="https://avatars.githubusercontent.com/u/78686803?s=400&u=c3fada54cbca0bcfc67a3c4f7727c6dcba15ad64&v=4" width="50">
+                <br>
+                <h2>اويس بخاري</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/OwisBukhari">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="hhttps://www.linkedin.com/in/owis-bukhari-6a6b44184/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/owisqari">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// OWIS BUKHARI //-->
+     <!-- ReBestX -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ReBestX">
+                <img src="https://avatars.githubusercontent.com/u/116752096?v=4" width="50">
+                <br>
+                <h2>Ayman Ismail</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/rebestx">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/aymanbismail">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/c/rebestx">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/rebestx/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ReBestX">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ReBestX -->
+    <!-- @a7sa45 -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/a7sa45">
+                <img src="https://avatars.githubusercontent.com/u/36082752?s=400&u=4c2ff7d3d300ac303e0efdd9f254271cc3585704&v=4" width="50">
+                <br>
+                <h2>عبدالهادي ال بوسنينه</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/a7sa45">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdulhadi-al-bo-sninah-576582205/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://twitter.com/a7sa45">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://twitter.com/a7sa45">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://twitter.com/a7sa45">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://twitter.com/a7sa45">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/a7sa45">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- @a7sa45 -->
+    <!-- WESSAM -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/wesam-abutuaimeh">
+                <img src="https://avatars.githubusercontent.com/u/91456364?s=400&u=014d971f9ed6cce9097844a8ae84367aac18ebe9&v=4" style="width:50px ;height:50px ; border-radius:50%">
+                <br>
+                <h2>Wesam Abutaima</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/Wesam_Abutaima">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/wesam-abutaima-55b100272/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/wesam.abutaima/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://instagram.com/wesam.abutaima?igshid=ZGUzMzM3NWJiOQ==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <!-- <td>
+                        <a href="https://www.tiktok.com/@yarobhm">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// TIK TOK -->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/wesam-abutuaimeh">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- mostaql -->
+                    <td>
+                        <a href="https://mostaql.com/u/Wesam_Abutaima">
+                            <img src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg" width="40">
+                        </a>
+                    </td>
+                    <!--// mostaql //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// WESSAM //-->
     <!-- Omar -->
     <tr>
         <td align="center" width="600">
