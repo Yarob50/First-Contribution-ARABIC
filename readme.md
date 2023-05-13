@@ -1255,5 +1255,50 @@
         </td>
     </tr>
     <!-- // Assem Saeed // -->
+    <!--// Thamer //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ThamerMalki">
+                <img src="https://avatars.githubusercontent.com/u/94167193?v=4" width="50">
+                <br>
+                <h2>The Warchief</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/TKuubi">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/thamer-malki/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@Tkuubi">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ThamerMalki">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Thamer //-->
 </table>
 <!--// CONTRIBUTER //-->
