@@ -1352,6 +1352,51 @@
         </td>
     </tr>
     <!--// IBRAHIM //-->
+        <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/itskahrbaa">
+                <img src="https://avatars.githubusercontent.com/itskahrbaa" width="50">
+                <br>
+                <h2>حسن ياسر</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/itskahrba">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/kahrbaa/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://bit.ly/Kahrbaa">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                        <a href="https://www.youtube.com/@iamKahrbaa">
+                            <img src="./images/youtube-logo.png" width="30">2
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <td>
+                        <a href="https://mostaql.com/u/Kahrbaa">
+                            <img src="https://mostaql.hsoubcdn.com/public/assets/images/custom/mostaql-logo-white.svg" width="40">
+                        </a>
+                    </td>
+                    <!--// mostaql //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
                 
 </table>
 <!--// CONTRIBUTER //-->
