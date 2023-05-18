@@ -209,9 +209,6 @@
                 </tr>
             </table>            
         </td>
-    </tr>
-    <!-- ======== نهاية مكان النسخ ========= -->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
@@ -260,8 +257,9 @@
                 </tr>
             </table>            
         </td>
-    </tr>    
-     <tr>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= -->
+    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/dr-almukhtar">
@@ -282,8 +280,6 @@
                 </tr>
             </table>            
         </td>
-    </tr>
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/SaifSaidi">
@@ -333,8 +329,6 @@
                 </tr>
             </table>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Mohamed-avr">
@@ -413,7 +407,6 @@
                 </tr>
             </table>
         </td>
-        <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/NinaLoop">
@@ -470,8 +463,6 @@
                 </tr>
             </table>            
         </td>
-    </tr>
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/maryam800">
@@ -535,9 +526,7 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!-- AHMAD SINAN -->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Dev-AhmedOmer">
@@ -631,10 +620,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!--// FAYYAD //-->
     <!-- MOHAMMED ALSAEADY -->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Mandela95">
@@ -714,9 +701,7 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!-- MUHA -->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Mohammed-Berir">
@@ -795,10 +780,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!-- HamzaDev -->
     <!-- ABDULKARIM -->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/abdulkerim-awad">
@@ -872,10 +855,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!-- Zakaria -->
     <!-- AMIR Gendy-->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/amirgendy">
@@ -955,10 +936,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!--// OWIS BUKHARI //-->
-     <!-- ReBestX -->
-    <tr>
+    <!-- ReBestX -->
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/ReBestX">
@@ -1073,10 +1052,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!-- @a7sa45 -->
     <!-- WESSAM -->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/wesam-abutuaimeh">
@@ -1170,10 +1147,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!--// Omar //-->
     <!--// HASHIM //-->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Pwoerlevel">
@@ -1253,10 +1228,8 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!-- // Assem Saeed // -->
     <!--// Thamer //-->
-    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/ThamerMalki">
@@ -1350,8 +1323,49 @@
                 </tr>
             </table>            
         </td>
-    </tr>
     <!--// IBRAHIM //-->
-                
+    <!-- JOLAQ -->
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/jolaq227">
+                <img src="https://avatars.githubusercontent.com/u/119108696?v=4" width="150">
+                <br>
+                <h2>ابراهيم محمد</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/Jolak227">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/muhammed-colak/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <td>
+                        <a href="https://instagram.com/jolak_227">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/jolaq227">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// JOLAQ //-->
 </table>
 <!--// CONTRIBUTER //-->
