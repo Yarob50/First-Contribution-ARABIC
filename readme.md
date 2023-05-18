@@ -802,14 +802,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/abdulkerim-awad-92652321a/">
-                            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+                            <img src="./images/linkedin-logo.png" height=25>
                         </a>
                     </td>
                     <!--// LINKED IN //-->
                     <!-- CodeWars -->
                     <td>
                         <a href="https://www.codewars.com/users/AbdulkerimAwad">
-                            <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25>
+                            <img src="./images/codewars-logo.png" height=25>
                         </a>
                     </td>
                     <!--// CodeWars //-->
@@ -817,7 +817,7 @@
                     <!-- stackoverflow -->
                     <td>
                         <a href="https://stackoverflow.com/users/14137474/abdulkerim">
-                            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
+                            <img src="./images/stackoverflow-logo.png" height=25>
                         </a>
                     </td>
                     <!--// stackoverflow //-->
