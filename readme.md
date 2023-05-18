@@ -147,7 +147,7 @@
 <table border="1|0" align="center">
     <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Yarob50">
                 <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
@@ -209,7 +209,7 @@
                 </tr>
             </table>            
         </td>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
                 <img src="https://avatars.githubusercontent.com/u/32878868?v=4" width="50">
@@ -260,7 +260,7 @@
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/dr-almukhtar">
                 <img src="https://avatars.githubusercontent.com/u/104250863?v=4" width="50">
@@ -280,7 +280,7 @@
                 </tr>
             </table>            
         </td>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/SaifSaidi">
                 <img src="https://avatars.githubusercontent.com/u/99614521?v=4" width="50">
@@ -302,7 +302,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
             &nbsp;&nbsp
             <a href="https://github.com/Mazin-Fouad">
                 <img src="https://avatars.githubusercontent.com/u/98177409?v=4" width="50" />
@@ -329,7 +329,7 @@
                 </tr>
             </table>
         </td>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Mohamed-avr">
                 <img src="https://avatars.githubusercontent.com/u/58856307?v=4" width="50">
@@ -372,7 +372,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/youshakh">
                 <img src="https://avatars.githubusercontent.com/u/104216900?v=4" width="50">
@@ -407,7 +407,7 @@
                 </tr>
             </table>
         </td>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/NinaLoop">
                 <img src="https://avatars.githubusercontent.com/u/108150279?v=4" width="50">
@@ -436,7 +436,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Marchq21">
                 <img src="https://avatars.githubusercontent.com/u/132752171?v=4" width="50">
@@ -463,7 +463,7 @@
                 </tr>
             </table>            
         </td>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/maryam800">
                 <img src="https://avatars.githubusercontent.com/u/39832751?v=4" width="50">
@@ -499,7 +499,7 @@
         </td>
     </tr>
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/kahkaj">
                 <img src="https://avatars.githubusercontent.com/u/71718084?v=4" width="50">
@@ -527,7 +527,7 @@
             </table>            
         </td>
     <!-- AHMAD SINAN -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Dev-AhmedOmer">
                 <img src="https://avatars.githubusercontent.com/u/111293004?s=400&u=dc206ec99e019c223712d6226b13abe44809ac63&v=4" width="50">
@@ -593,7 +593,7 @@
     <!--// AHMAD SINAN //-->
     <!-- FAYYAD -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/mohamdFayyad">
                 <img src="https://avatars.githubusercontent.com/u/113478138?v=4" width="50">
@@ -622,7 +622,7 @@
         </td>
     <!--// FAYYAD //-->
     <!-- MOHAMMED ALSAEADY -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Mandela95">
                 <img src="https://avatars.githubusercontent.com/u/96991597?v=4" width="50">
@@ -674,7 +674,7 @@
     <!--// MOHAMMED ALSAEADY //-->
     <!-- MUHA -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/nmcev">
                 <img src="https://avatars.githubusercontent.com/u/126491139?s=400&u=db4a798c603f1ff7a8af59737fb2d51495e5b7c8&v=4" width="50">
@@ -702,7 +702,7 @@
             </table>            
         </td>
     <!-- MUHA -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Mohammed-Berir">
                 <img src="https://avatars.githubusercontent.com/u/20186596?v=4" width="50">
@@ -725,7 +725,7 @@
     </tr>
     <!-- HamzaDev -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/HamzaElkotp">
                 <img src="https://avatars.githubusercontent.com/u/61008779?v=4" width="50">
@@ -782,7 +782,7 @@
         </td>
     <!-- HamzaDev -->
     <!-- ABDULKARIM -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/abdulkerim-awad">
                 <img src="https://avatars.githubusercontent.com/u/79903897?v=4" width="50">
@@ -828,7 +828,7 @@
     <!-- // ABDULKARIM // -->
     <!-- Zakaria -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Zaki-Dz">
                 <img src="https://avatars.githubusercontent.com/u/54380152?v=4" width="50">
@@ -857,7 +857,7 @@
         </td>
     <!-- Zakaria -->
     <!-- AMIR Gendy-->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/amirgendy">
                 <img src="https://avatars.githubusercontent.com/u/74946731?v=4" width="50">
@@ -902,7 +902,7 @@
     <!-- Amir Gendy Botros -->
     <!---OWIS BUKHARI-->
       <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/owisqari">
                 <img src="https://avatars.githubusercontent.com/u/78686803?s=400&u=c3fada54cbca0bcfc67a3c4f7727c6dcba15ad64&v=4" width="50">
@@ -938,7 +938,7 @@
         </td>
     <!--// OWIS BUKHARI //-->
     <!-- ReBestX -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/ReBestX">
                 <img src="https://avatars.githubusercontent.com/u/116752096?v=4" width="50">
@@ -990,7 +990,7 @@
     <!-- ReBestX -->
     <!-- @a7sa45 -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/a7sa45">
                 <img src="https://avatars.githubusercontent.com/u/36082752?s=400&u=4c2ff7d3d300ac303e0efdd9f254271cc3585704&v=4" width="50">
@@ -1054,7 +1054,7 @@
         </td>
     <!-- @a7sa45 -->
     <!-- WESSAM -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/wesam-abutuaimeh">
                 <img src="https://avatars.githubusercontent.com/u/91456364?s=400&u=014d971f9ed6cce9097844a8ae84367aac18ebe9&v=4" style="width:50px ;height:50px ; border-radius:50%">
@@ -1120,7 +1120,7 @@
     <!--// WESSAM //-->
     <!-- Omar -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/omaratbd7">
                 <img src="https://avatars.githubusercontent.com/u/58294140?v=4" width="50">
@@ -1149,7 +1149,7 @@
         </td>
     <!--// Omar //-->
     <!--// HASHIM //-->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/Pwoerlevel">
                 <img src="https://avatars.githubusercontent.com/u/96821915?v=4" width="70">
@@ -1180,7 +1180,7 @@
     <!--// HASHIM //-->
     <!-- // Assem Saeed // -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/assem1637">
                 <img src="https://avatars.githubusercontent.com/u/71609097?v=4" width="50">
@@ -1230,7 +1230,7 @@
         </td>
     <!-- // Assem Saeed // -->
     <!--// Thamer //-->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/ThamerMalki">
                 <img src="https://avatars.githubusercontent.com/u/94167193?v=4" width="50">
@@ -1275,7 +1275,7 @@
     <!--// Thamer //-->
     <!-- IBRAHIM -->
     <tr>
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/theiphoner">
                 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="150">
@@ -1325,12 +1325,12 @@
         </td>
     <!--// IBRAHIM //-->
     <!-- JOLAQ -->
-        <td align="center" width="600">
+        <td align="center" width="50%">
         &nbsp;&nbsp
             <a href="https://github.com/jolaq227">
                 <img src="https://avatars.githubusercontent.com/u/119108696?v=4" width="150">
                 <br>
-                <h2>ابراهيم محمد</h2>
+                <h2>Muhammed Jolaq</h2>
             </a>
             <br>            
             <table>
