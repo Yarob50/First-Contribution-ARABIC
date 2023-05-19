@@ -1352,6 +1352,43 @@
         </td>
     </tr>
     <!--// IBRAHIM //-->
-                
+     <!--=== MBahusayn ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/mbahusayn">
+                <img src="https://avatars.githubusercontent.com/u/35426944?v=4" width="50">
+                <br>
+                <h2> Mohammed Bahusayn </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/MBahusayn">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mbahusayn/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/MBahusayn">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== MBahusayn ========= -->            
 </table>
 <!--// CONTRIBUTER //-->
