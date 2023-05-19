@@ -1383,6 +1383,44 @@
         </td>
     </tr>
     <!-- // TARIQ // -->
+    <!-- MEHDI -->
+    <tr>
+            <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ZouariMehdi">
+                <img src="https://media.licdn.com/dms/image/D4E03AQE9jkL3mMrmOA/profile-displayphoto-shrink_800_800/0/1683467328063?e=1689206400&v=beta&t=HUFU3r_Rn6XGi1V5ndpeumNBvNiqHhKgiaWbiPPyaxw" width="50">
+                <br>
+                <h2>Zouari Mehdi</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/zouari-mehdi-b483bb220/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@ZouariSchool">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://avatars.githubusercontent.com/u/29100623?v=4">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- MEHDI -->
                 
 </table>
 <!--// CONTRIBUTER //-->
