@@ -1468,6 +1468,44 @@
         </td>
     </tr>
     <!--// HASAN  //-->
+    <!-- Ahmad -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Ahmad-JS">
+                <img src="https://avatars.githubusercontent.com/u/96401137?v=4" width="50">
+                <br>
+                <h2>احمد الحربي</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/AHMADM6310">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@AhmadJS">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Ahmad-JS">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Ahmad //-->
                 
 </table>
 <!--// CONTRIBUTER //-->
