@@ -1352,9 +1352,40 @@
         </td>
     </tr>
     <!--// IBRAHIM //-->
-    <!--start Mehdi contribution -->
+     <!-- TARIQ -->
     <tr>
         <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ELEF-TQ">
+                <img src="https://avatars.githubusercontent.com/u/73225639?v=4" width="50">
+                <br>
+                <h2>TARIQ AIT LAKHLIFT</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/abdulkerim-awad">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/tariq-ait-lakhlift">
+                            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- // TARIQ // -->
+    <!-- MEHDI -->
+    <tr>
+            <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/ZouariMehdi">
                 <img src="https://media.licdn.com/dms/image/D4E03AQE9jkL3mMrmOA/profile-displayphoto-shrink_800_800/0/1683467328063?e=1689206400&v=beta&t=HUFU3r_Rn6XGi1V5ndpeumNBvNiqHhKgiaWbiPPyaxw" width="50">
@@ -1389,7 +1420,7 @@
             </table>            
         </td>
     </tr>
-    <!--end Mehdi contribution -->
+    <!-- MEHDI -->
                 
 </table>
 <!--// CONTRIBUTER //-->
