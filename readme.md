@@ -1545,5 +1545,42 @@
     </tr>
     <!--// MBahusayn //-->  
                 
+<!--// Zyadfallatah //-->
+ <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/zyadfallatah">
+                <img src="https://avatars.githubusercontent.com/u/93343139?s=400&u=5b1f485b934b5562eb47cda2e70719c96501b392&v=4" width="50">
+                <br>
+                <h2>zyadfallatah</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/zyad_fallatah">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/zyadfal/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/zyadfallatah">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Zyadfallatah //-->
 </table>
-<!--// CONTRIBUTER //-->
