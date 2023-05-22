@@ -475,7 +475,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Ebrahim33/Ebrahim33.github.io.git">
-                <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
+                <img src="https://avatars.githubusercontent.com/u/112424157?s=400&u=b336069ab036a67f1451c50501533c67c6b59400&v=4" width="50">
                 <br>
                 <h2>ابراهيم الخطيب</h2>
             </a>
@@ -491,7 +491,7 @@
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
-                        <a href="https://www.linkedin.com/in/yarobhm/">
+                        <a href="https://www.linkedin.com/in/ebrahim-alkhatib-4859aa244">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
