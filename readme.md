@@ -1558,14 +1558,14 @@
                 <tr> 
                     <!-- GITHUB -->
                     <td>
-                        <a target='_blank' href="https://github.com/ChakirMohamed/">
+                        <a href="https://github.com/ChakirMohamed/">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
-                        <a target='_blank' href="https://www.linkedin.com/in/chakirmohamed/">
+                        <a href="https://www.linkedin.com/in/chakirmohamed/">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
