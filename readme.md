@@ -1544,6 +1544,36 @@
         </td>
     </tr>
     <!--// MBahusayn //-->  
-                
+    <!--** Mohamed CHAKIR **-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Ahmad-JS">
+                <img src="https://avatars.githubusercontent.com/u/84877856?v=4" width="50">
+                <br>
+                <h2>Mohamed CHAKIR</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ChakirMohamed/">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/chakirmohamed/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Mohamed CHAKIR //-->
 </table>
 <!--// CONTRIBUTER //-->
