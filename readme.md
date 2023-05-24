@@ -1544,7 +1544,7 @@
         </td>
     </tr>
     <!--// MBahusayn //-->  
-    <!--** Mohamed CHAKIR **-->
+    <!--// Mohamed CHAKIR //-->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
