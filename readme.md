@@ -1702,6 +1702,7 @@
     </tr>
     <!--// Badr Alwattar //--> 
     <!--// Mohamed CHAKIR //-->
+    <!--// Abdelrahman Abu Zahra //--->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -1732,4 +1733,38 @@
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
+    <!--// Abdelrahman Abu Zahra //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/A-AZ">
+                <img src="./images/github-logo.png" width="30">
+            </a>
+                <br>
+                <h2>Abdelrahman Abu Zahra</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                    <!--// GITHUB //-->
+                        <td>
+                            <a href="https://github.com/A-AZ">
+                                <img src="./images/github-logo.png" width="30">
+                            </a>
+                        </td>
+                    <!--// GITHUB //-->
+                </tr>
+                <tr>
+                    <!--// LINKEDIN //-->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdelrahman-abu-zahra/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKEDIN //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+<!--// Abdelrahman Abu Zahra //-->
 </table>
