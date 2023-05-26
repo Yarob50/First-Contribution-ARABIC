@@ -1588,10 +1588,9 @@
             </table>            
         </td>
     </tr>
-    <!--// JOLAQ //-->  
-                
-<!--// Zyadfallatah //-->
- <tr>
+    <!--// JOLAQ //-->                  
+    <!--// Zyadfallatah //-->
+    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/zyadfallatah">
@@ -1628,4 +1627,42 @@
         </td>
     </tr>
     <!--// Zyadfallatah //-->
+    <!-- Badr Alwattar -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/badr-alwattar">
+                <img src="https://avatars.githubusercontent.com/u/62515831?v=4" width="50">
+                <br>
+                <h2> Badr Alwattar </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/badr_alwattar">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/bader-eddin-alwattar">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/badr-alwattar">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Badr Alwattar //--> 
 </table>
