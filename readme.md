@@ -1543,7 +1543,90 @@
             </table>            
         </td>
     </tr>
-    <!--// MBahusayn //-->  
+    <!--// MBahusayn //-->
+    <!-- JOLAQ -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/jolaq227">
+                <img src="https://avatars.githubusercontent.com/u/119108696?v=4" width="50">
+                <br>
+                <h2> Muhammed Jolaq </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/Jolak227">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/muhammed-colak/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://instagram.com/jolak_227">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/jolaq227">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// JOLAQ //-->                  
+    <!--// Zyadfallatah //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/zyadfallatah">
+                <img src="https://avatars.githubusercontent.com/u/93343139?s=400&u=5b1f485b934b5562eb47cda2e70719c96501b392&v=4" width="50">
+                <br>
+                <h2>zyadfallatah</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/zyad_fallatah">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/zyadfal/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/zyadfallatah">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Zyadfallatah //-->
     <!-- Badr Alwattar -->
     <tr>
         <td align="center" width="600">
@@ -1581,6 +1664,5 @@
             </table>            
         </td>
     </tr>
-    <!--// Badr Alwattar //-->  
+    <!--// Badr Alwattar //--> 
 </table>
-<!--// CONTRIBUTER //-->
