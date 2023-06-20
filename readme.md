@@ -1732,4 +1732,77 @@
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
+
+
+    
+ <!-- // عبدالواسع النعيمي // -->
+<tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Abdulwasia">
+                <img src="https://avatars.githubusercontent.com/u/136977525?v=4" width="50">
+                <br>
+                <h2>عبدالواسع النعيمي</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/YarHmm">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/profile.php?id=100084898563698&locale=ar_AR">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@yarobhm">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Abdulwasia">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+ <!-- // عبدالواسع النعيمي // -->
+
+
+
+
 </table>
