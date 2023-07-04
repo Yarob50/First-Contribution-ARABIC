@@ -211,6 +211,50 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= -->
+    ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Yarob50">
+                <img src="https://avatars.githubusercontent.com/u/115188113?v=4" width="50">
+                <br>
+                <h2>ابراهيم طاهر </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/ibrataha8">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/channel/UCRVWm3S4AxEo1qiR_dqv2XQ">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ibrataha8">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- Gmail -->
+                    <td>
+                        <a href="MonMail.html">
+                            <img src="./images/iconGmail.png" width="30">
+                        </a>
+                    </td>
+                    <!--// Gmail //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
