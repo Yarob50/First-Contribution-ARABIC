@@ -1745,14 +1745,14 @@
                 <tr> 
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/khuloudAlshammari/First-Contribution-ARABIC">
+                        <a href="https://github.com/khuloudAlshammari/Forked">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
-                        <a href="www.linkedin.com/in/khuloudalshammari">
+                        <a href="https://www.linkedin.com/in/khuloudalshammari">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
