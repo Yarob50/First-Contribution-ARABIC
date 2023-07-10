@@ -1732,4 +1732,36 @@
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
+
+     <!--=== sulaiman ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Yarob50">
+                <img src="https://avatars.githubusercontent.com/u/132336536?v=4" width="50">
+                <br>
+                <h2>سليمان توفيق</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/04s.u/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                   
+                        <a href="https://github.com/sulaimantawfik">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== sulaiman========= -->
 </table>
