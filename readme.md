@@ -1732,4 +1732,42 @@
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
+    <!-- Rayen Nasser -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Rayen-nasser">
+                <img src="https://avatars.githubusercontent.com/u/111684397?v=4" width="50">
+                <br>
+                <h2>Rayen Nasser</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Rayen-nasser/">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.facebook.com/rayen.nasser.33">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/rey10976601">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Rayen Nasser //-->
 </table>
