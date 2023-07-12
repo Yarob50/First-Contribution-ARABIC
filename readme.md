@@ -1737,7 +1737,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Saud-Alghamdi">
-                <img src="https://avatars.githubusercontent.com/u/84877856?v=4" width="50">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
                 <br>
                 <h2>Saud Alghamdi</h2>
             </a>
@@ -1746,14 +1746,14 @@
                 <tr> 
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/ChakirMohamed/">
+                        <a href="https://github.com/Saud-Alghamdi/">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
-                        <a href="https://www.linkedin.com/in/chakirmohamed/">
+                        <a href="https://www.linkedin.com/in/saudaalghamdi">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
