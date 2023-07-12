@@ -1739,7 +1739,7 @@
             <a href="https://github.com/HaidarEmadAbdo">
                 <img src="https://avatars.githubusercontent.com/u/139217562?v=4" width="50">
                 <br>
-                <h2>Haidar Abdo</h2>
+                <h2>Haidar Emad Abdo</h2>
             </a>
             <br>            
             <table>
