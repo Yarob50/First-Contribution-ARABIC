@@ -1732,7 +1732,7 @@
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
-</table>
+    <!--// Haidar Emad Abdo //-->
 <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
