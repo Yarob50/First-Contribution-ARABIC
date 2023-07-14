@@ -1938,4 +1938,28 @@
         </td>
     </tr>
     <!-- billal benzazoua -->
+    <!--  Maram Saeed  -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/maram-saeed">
+                <img src="https://avatars.githubusercontent.com/u/126006325?v=4" width="50">
+                <br>
+                <h2>Maram Saeed</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/maram-saeed">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- // Maram Saeed // -->
 </table>
