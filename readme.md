@@ -2062,4 +2062,35 @@
         </td>
     </tr>
     <!--// Saud Alghamdi //-->
+    <!--// Haidar Emad Abdo //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/HaidarEmadAbdo">
+                <img src="https://avatars.githubusercontent.com/u/139217562?v=4" width="50">
+                <br>
+                <h2>Haidar Emad Abdo</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/HaidarEmadAbdo">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/en-haidar-abdo-878046264/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Haidar Abdo //-->
 </table>
