@@ -2093,4 +2093,44 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+
+    <!-- Abdulmalek Ali -->
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/AbdulmalekAli60">
+                <img src="https://avatars.githubusercontent.com/u/98859591?v=4" width="50">
+                <br>
+                <h2>Abdulmalek Ali</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/Geralt_OR">
+                            <img src="https://pbs.twimg.com/profile_images/1563544663339847680/WklgzI_P_400x400.jpg" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdulmalek-alshetwi-561560202/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AbdulmalekAli60">
+                            <img src="https://avatars.githubusercontent.com/u/98859591?v=4" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Abdulmalek Ali //-->
 </table>
