@@ -1731,13 +1731,15 @@
             </table>            
         </td>
     </tr>
-    
+
+    <!-- Abdulamelk Ali -->
+    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
-            <a href="https://github.com/AbdulmalekAli60?tab=repositories">
-                <img src="https://avatars.githubusercontent.com/u/98859591?v=4" width="50">
+            <a href="https://github.com/AbdulmalekAli60">
+                <img src="https://avatars.githubusercontent.com/u/98859591?s=400&v=4" width="50">
                 <br>
-                <h2>Abdulmalik Ali</h2>
+                <h2>Abdulmalek Ali</h2>
             </a>
             <br>            
             <table>
@@ -1752,14 +1754,15 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/abdulmalek-alshetwi-561560202/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                            <img src="https://yoolk.ninja/wp-content/uploads/2019/07/DC-Comics-batman-1024x819.png" width="30">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
+                    
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AbdulmalekAli60">
-                            <img src="https://avatars.githubusercontent.com/u/98859591?v=4" width="30">
+                            <img src="https://avatars.githubusercontent.com/u/98859591?s=400&v=4" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -1767,5 +1770,6 @@
             </table>            
         </td>
     </tr>
-    <!--// Mohamed CHAKIR //-->
+    <!--// Abdulamelk Ali //-->
+    
 </table>
