@@ -1765,6 +1765,13 @@
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
+                    <!-- TELEGRAM -->
+                    <td>
+                        <a href="https://t.me/iTzVoko">
+                            <img src="./images/telegram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TELEGRAM //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/iTzVoko">
