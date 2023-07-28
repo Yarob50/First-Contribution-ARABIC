@@ -2093,4 +2093,36 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!-- Nawaf Noweisri -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Noweisri">
+                <img src="https://avatars.githubusercontent.com/u/128249727?v=4" width="50">
+                <br>
+                <h2>نواف نصار</h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/nawaf-a-241752213/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Noweisri">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Nawaf Noweisri -->
+    
 </table>
