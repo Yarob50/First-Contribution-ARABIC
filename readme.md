@@ -2093,4 +2093,35 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!-- Oussama Es-Sebaiy -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/HaidarEmadAbdo">
+                <img src="https://avatars.githubusercontent.com/u/84465604?v=4" width="50">
+                <br>
+                <h2>Oussama Es-Sebaiy</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Ousbaiy">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/oussama-essebaiy">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Oussama Es-Sebaiy -->
 </table>
