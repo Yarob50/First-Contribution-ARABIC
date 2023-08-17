@@ -164,7 +164,7 @@
                         </a>
                     </td>
                     <!--// TWITTER //-->
-                    <!-- LINKED IN -->
+                    <!--// LINKED IN //-->
                     <td>
                         <a href="https://www.linkedin.com/in/yarobhm/">
                             <img src="./images/linkedin-logo.png" width="30">
@@ -212,6 +212,35 @@
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
     <tr>
+      <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/salmaelbaz">
+                <img src="https://avatars.githubusercontent.com/u/139469166?v=4" width="50">
+                <br>
+                <h2>Salma mohamed</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/sall19977">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/salmaelbaz">
+                            <img src="https://avatars.githubusercontent.com/u/139469166?v=4" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
