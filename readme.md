@@ -2100,7 +2100,7 @@
             <a href="https://github.com/YoussefElogail">
                 <img src="https://avatars.githubusercontent.com/u/125933702?s=96&v=4" width="50">
                 <br>
-                <h2>Youssef El-Ogail</h2>
+                <h2>Youssef El-Ogai</h2>
             </a>
             <br>            
             <table>
