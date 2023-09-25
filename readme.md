@@ -2093,4 +2093,42 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!-- //Amal Khardli // -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Yarob50">
+                <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
+                <br>
+                <h2>Amal Khardli</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/AmalKhardli">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/amal-khardli/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/anamallay">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- //Amal Khardli // -->
 </table>
