@@ -2098,7 +2098,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/anamallay">
-                <img src="" width="50">
+                <img src="https://avatars.githubusercontent.com/u/93478850?v=4" width="50">
                 <br>
                 <h2>Amal Khardli</h2>
             </a>
