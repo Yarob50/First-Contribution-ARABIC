@@ -2093,4 +2093,42 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!--Raed Salah-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/RaedSalahBzour">
+                <img src="https://avatars.githubusercontent.com/u/111294459?v=4" width="50">
+                <br>
+                <h2>Raed Salah</h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                 <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/RaedSalahBzour">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--Raed Salah-->
 </table>
