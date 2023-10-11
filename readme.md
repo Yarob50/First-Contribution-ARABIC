@@ -2093,4 +2093,42 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!--// Mohammad Amin Taha //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohammad-Taha-Programmer">
+                <img src="https://avatars.githubusercontent.com/u/93265317?s=400&u=02e52e1538d486e2f2a398247661740b2f4d4f68&v=4" width="50">
+                <br>
+                <h2>محمد أمين طه</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohammad-taha-192bb8225/">
+                            <img src="https://media.licdn.com/dms/image/C4E03AQFm2GSuSj_mew/profile-displayphoto-shrink_800_800/0/1637164399351?e=1702512000&v=beta&t=sbMAJtTuOgUNDp_ZFxD1X4I3znfusoNFf8w2BMgAbzM" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/c/MohammadTaha">
+                            <img src="https://yt3.googleusercontent.com/ytc/APkrFKaZSLZGS8UNxFd_y9zsnPtYSzINXa9IVdz3afR35Q=s176-c-k-c0x00ffffff-no-rj" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Mohammad-Taha-Programmer">
+                            <img src="https://avatars.githubusercontent.com/u/93265317?s=400&u=02e52e1538d486e2f2a398247661740b2f4d4f68&v=4" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Mohammad Amin Taha //-->
 </table>
