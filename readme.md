@@ -2093,4 +2093,42 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!--// Zedan Mohamed //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/zedann">
+                <img src="https://avatars.githubusercontent.com/u/87919811?v=4" width="50">
+                <br>
+                <h2>Zedan Mohamed</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/zedann">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/zedan-mohamed-9ba98b21a/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/zedanmohamed99">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Haidar Abdo //-->
 </table>
