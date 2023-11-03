@@ -2093,4 +2093,28 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!--// youssefDev //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/yusufDev">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
+                <br>
+                <h2>youssefDev</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/yusufDev/">
+                            <img src="https://avatars.githubusercontent.com/u/13785050?v=4" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// youssefDev //-->
 </table>
