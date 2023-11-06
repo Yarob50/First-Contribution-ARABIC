@@ -2093,4 +2093,56 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+        <!--// OSM //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/osmcode05">
+                <img src="https://avatars.githubusercontent.com/u/149706382?v=4" width="50">
+                <br>
+                <h2>OSM</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/osmcode05">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/_osm_04/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- FaceBook -->
+                    <td>
+                        <a href="https://web.facebook.com/ossama.moumad.5">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FaceBook //-->
+                    <!-- twitter -->
+                    <td>
+                        <a href="https://twitter.com/OTessla">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// twitter //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ait-moummad-oussama-b05b89284/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// OSM //-->
 </table>
