@@ -2093,4 +2093,42 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!--// Ayman Ali Hassan //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/AymanAbuAli">
+                <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaAbKG1pLauDwFwwvfcHuwNHpWFVLYtZnIwdOBHCpfSQxNpChstx42dAMVA10dgvesMGOUswPM7xCTqGsMPlIYHtHus6Pg=w1358-h658" width="100" ra>
+                <br>
+                <h2>Ayman Ali Hassan</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AymanAbuAli">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ayman-ali-201033271/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!--// Instagram //-->                    
+                    <td>
+                        <a href="https://www.instagram.com/ayman.ali153/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// Instagram //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Ayman Ali Hassan //-->
 </table>
