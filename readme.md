@@ -2091,6 +2091,34 @@
                 </tr>
             </table>            
         </td>
+    </tr> 
+    <tr> 
+    <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/HaidarEmadAbdo">
+                <br>
+                <h2>omar </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
     </tr>
     <!--// Haidar Abdo //-->
 </table>
