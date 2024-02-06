@@ -2093,4 +2093,35 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!--// Yasser korzane //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/yasseresi">
+                <img src="https://avatars.githubusercontent.com/u/119799502?v=4" width="50">
+                <br>
+                <h2>yasser korzane</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/yasseresi">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/korzane-yasser/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// yasser korzane //--> 
 </table>
