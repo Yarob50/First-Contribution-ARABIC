@@ -166,7 +166,11 @@
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
+<<<<<<< HEAD
                         <a href="www.linkedin.com/in/walid-naciri">
+=======
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+>>>>>>> ca68d8b5881b91d5207f721cb810f32c1f04318f
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
@@ -2093,6 +2097,7 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+<<<<<<< HEAD
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
