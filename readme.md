@@ -166,7 +166,11 @@
                     <!--// TWITTER //-->
                     <!-- LINKED IN -->
                     <td>
+<<<<<<< HEAD
+                        <a href="www.linkedin.com/in/walid-naciri">
+=======
                         <a href="https://www.linkedin.com/in/yarobhm/">
+>>>>>>> ca68d8b5881b91d5207f721cb810f32c1f04318f
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
@@ -2093,4 +2097,41 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+<<<<<<< HEAD
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ufo111">
+                <img src="https://media.licdn.com/dms/image/D4E35AQEVD-wGzXkm1g/profile-framedphoto-shrink_200_200/0/1705243227613?e=1707984000&v=beta&t=W6mwqZq8b8UcjQDaWuV0C8E7WrbYTADOD5cyoYboMmo" width="50">
+                <br>
+                <h2>Walid-UFO</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/NCWalid9">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="www.linkedin.com/in/walid-naciri">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ufo111">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
 </table>
