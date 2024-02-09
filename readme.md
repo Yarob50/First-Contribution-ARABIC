@@ -2093,4 +2093,35 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+     <!--// Saud Alghamdi //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/raouf-kamel">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
+                <br>
+                <h2>Raouf kamel</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/raouf-kamel/">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/raouf-kamel">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Saud Alghamdi //-->
 </table>
