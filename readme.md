@@ -2310,5 +2310,41 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!--// TurkIOS //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/TurkiOS">
+                <img src="https://avatars.githubusercontent.com/u/112579033?v=4" width="50">
+                <br>
+                <h2>TurkIOS</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/turki-al-suhaibani-a29169233/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/TurkiOS">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://twitter.com/_TurkI0S">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
 </table>
