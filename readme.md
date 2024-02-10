@@ -2092,7 +2092,7 @@
             </table>            
         </td>
     </tr>
-    <!--// Haidar Abdo //-->
+    <!--// Amirat Abdelkrim //-->
         <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2106,18 +2106,25 @@
                 <tr> 
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/HaidarEmadAbdo">
+                        <a href="https://github.com/AbdelkrimAmirat">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
                     <!-- LINKED IN -->
                     <td>
-                        <a href="https://www.linkedin.com/in/en-haidar-abdo-878046264/">
+                        <a href="https://www.linkedin.com/in/abdelkrim-amirat-4796167/">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
                     <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/abdelkrim.amirat/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
                 </tr>
             </table>            
         </td>
