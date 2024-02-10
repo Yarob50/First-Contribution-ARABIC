@@ -2093,6 +2093,75 @@
         </td>
     </tr>
     <!--// Haidar Abdo //-->
+    <!-- Amirat Abdelkrim -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/AbdelkrimAmirat">
+                <img src="https://avatars.githubusercontent.com/u/157597079?v=4" width="50">
+                <br>
+                <h2>Abdelkrim Amirat</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AbdelkrimAmirat">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdelkrim-amirat-4796167/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/abdelkrim.amirat/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!--// Amirat Abdelkrim //-->
+    <!-- Raouf kamel -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/raouf-kamel">
+                <img src="https://avatars.githubusercontent.com/u/66304001?v=4" width="50">
+                <br>
+                <h2>Raouf kamel</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/raouf-kamel/">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/raouf-kamel">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Raouf kamel //-->
     <!--Usaid Alhadeethi--> 
     <tr>
         <td align="center" width="600">
@@ -2116,5 +2185,6 @@
             </table>            
         </td>
     </tr>
-    <!--Usaid Alhadeethi--> 
+    <!--Usaid Alhadeethi-->
+
 </table>
