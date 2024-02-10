@@ -2077,7 +2077,7 @@
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/HaidarEmadAbdo">
-                            <img src="https://avatars.githubusercontent.com/u/157597079?v=4>
+                            <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
@@ -2092,8 +2092,9 @@
             </table>            
         </td>
     </tr>
-    <!--// Amirat Abdelkrim //-->
-        <tr>
+    <!--// Haidar Abdo //-->
+    <!-- Amirat Abdelkrim -->
+    <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/AbdelkrimAmirat">
@@ -2101,9 +2102,9 @@
                 <br>
                 <h2>Abdelkrim Amirat</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AbdelkrimAmirat">
@@ -2126,7 +2127,9 @@
                     </td>
                     <!--// FACEBOOK //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
+    <!--// Amirat Abdelkrim //-->
+
 </table>
