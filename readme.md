@@ -1732,6 +1732,58 @@
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
+    <!-- Ali Ayed @iTzVoko -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/iTzVoko">
+                <img src="https://avatars.githubusercontent.com/u/70109144?v=4" width="50">
+                <br>
+                <h2>Ali Ayed</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/itzvoko/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/iTzVoko">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/itzvokoyt/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TELEGRAM -->
+                    <td>
+                        <a href="https://t.me/iTzVoko">
+                            <img src="./images/telegram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TELEGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/iTzVoko">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!-- // Ali Ayed @iTzVoko // -->
     <!--// Abdelrahmna A.Z //-->
     <tr>
         <td align="center" width="600">
