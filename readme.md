@@ -211,6 +211,38 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
+    <!--=== قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/leila-kasmi-lk150">
+                <img src="https://avatars.githubusercontent.com/u/125727081?v=4" width="50">
+                <br>
+                <h2>Leila Kasmi</h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/leila-kasmi-lk150/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/leila-kasmi-lk150">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= --> 
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
