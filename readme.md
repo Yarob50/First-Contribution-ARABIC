@@ -227,14 +227,14 @@
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/leila-kasmi-lk150/">
-                            <img src="https://avatars.githubusercontent.com/u/125727081?v=4" width="30">
+                            <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
                     <!--// TIK TOK //-->
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/leila-kasmi-lk150">
-                            <img src="https://avatars.githubusercontent.com/u/125727081?v=4" width="30">
+                            <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
                     <!--// GITHUB //-->
