@@ -2310,5 +2310,43 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- Youcef Taleb -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/youceftaleb">
+                <img src="https://avatars.githubusercontent.com/u/32647531?v=4" width="50">
+                <br>
+                <h2>Youcef Taleb</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/youceftaleb">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!-- Personal Portfolio -->
+                    <td>
+                        <a href="https://youceftaleb.netlify.app/">
+                            <img src="https://youceftaleb.netlify.app/assets/apple-touch-icon-a300bd72.png" width="30">
+                        </a>
+                    </td>
+                    <!-- Personal Portfolio -->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Youcef Taleb -->
 
 </table>
