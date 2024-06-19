@@ -2310,5 +2310,57 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!--// Imad Aymen Walid //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/OWLAymen">
+                <img src="https://avatars.githubusercontent.com/u/116308206?v=4" width="50">
+                <br>
+                <h2>OWLAymen</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/hex-aymen-94218329b/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/OWLAymen">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                     <!-- x -->
+                    <td>
+                        <a href="https://x.com/aym_enff">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// x //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/aymenll333">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/aymenll333/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Imad Aymen Walid //-->
 
 </table>
