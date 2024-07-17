@@ -2310,5 +2310,36 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+<<<<<<< HEAD
+ <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/7A9Oo">
+                <img src="https://avatars.githubusercontent.com/u/157779371?v=4" width="50">
+                <br>
+                <h2>Mohammed Abdelhak</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/people/Abdelhak-Med/pfbid0276uRerym34jbnmFEr118YCrM2EwZGkHGdg6ogzEpdK5MhSk6e4XEzSaXgLRThfryl/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/7A9Oo">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+=======
 
+>>>>>>> b8338139da3f293e45571ec65f0c198ffff0506d
 </table>
