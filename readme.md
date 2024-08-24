@@ -2310,5 +2310,57 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- Omar Eid -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Om7r-2001">
+                <img src="https://avatars.githubusercontent.com/u/130876809?v=4" width="50">
+                <br>
+                <h2>Omar Eid</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="#">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- LINKED IN -->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="#">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- YOUTUBE -->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Om7r-2001">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- GITHUB -->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/profile.php?id=100011480900955&mibextid=JRoKGi">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- FACEBOOK -->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/omar.m.eid22?igsh=MWx4MHljNGg4MHZybg==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- INSTAGRAM -->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Omar Eid -->
 
 </table>
