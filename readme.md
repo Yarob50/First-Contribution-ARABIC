@@ -2309,6 +2309,44 @@
             </table>            
         </td>
     </tr>
-    <!--// Mohammad Amin Taha //-->
+    <!--//Noura bha //-->
 
+
+ <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohammad-Taha-Programmer">
+                <img src="https://avatars.githubusercontent.com/u/59212070?v=4" width="50">
+                <br>
+                <h2>noura bha</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/noura-bel-haj-amor-72a684212/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Noura35">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// noura bha //-->
 </table>
