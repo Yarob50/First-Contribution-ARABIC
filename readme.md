@@ -2311,4 +2311,71 @@
     </tr>
     <!--// Mohammad Amin Taha //-->
 
+ <!--issam elasri //-->
+  <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/issamasri91">
+                <img src="https://avatars.githubusercontent.com/u/32937609?v=4" width="50">
+                <br>
+                <h2>Issam Elasri</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="#">
+                            <img src="#">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="#/">
+                            <img src="#" >
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@issamelasri6739">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://web.facebook.com/profile.php?id=100084811278427">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="#">
+                            <img src="#" >
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@issamasri91?is_from_webapp=1&sender_device=pc">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/issamasri91">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--end issam elasri-->
+
 </table>
