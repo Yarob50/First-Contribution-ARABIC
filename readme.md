@@ -2310,5 +2310,69 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Ghaidaa2011">
+                <img src="https://avatars.githubusercontent.com/u/117023274?s=400&v=4" width="50">
+                <br>
+                <h2> Ghaidaa Khaled</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <!-- <td>
+                        <a href="https://twitter.com/YarHmm">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ghaidaa-khaled-8b472a226/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <!-- <td>
+                        <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <!-- <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <!-- <td>
+                        <a href="https://www.linkedin.com/in/yarobhm/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <!-- <td>
+                        <a href="https://www.tiktok.com/@yarobhm">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td> -->
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Ghaidaa2011">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
 
 </table>
