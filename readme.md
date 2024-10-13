@@ -2310,5 +2310,35 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+ <!--// mohamed sabrya //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+                        <a href="https://github.com/M0ham3dSabry">
+                            <img src="https://media.licdn.com/dms/image/v2/C5635AQE2l0m-wQWnZg/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1618655005257?e=1729432800&v=beta&t=tsDIYu7VBEBvolZDri1vfxVUk3y5t9L_-oMzP-tkCro" width="30">
+                <br>
+                <h2>Mohamed Sabry</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohammad-taha-192bb8225/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/M0ham3dSabry">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+ <!--// mohamed sabrya //-->
 
 </table>
