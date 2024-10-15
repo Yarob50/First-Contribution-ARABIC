@@ -2310,5 +2310,42 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!-- mohaned nail -->
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://curious-dango-e7edaf.netlify.app/profile/index.html">
+                <img src="https://avatars.githubusercontent.com/u/177149085?v=4&size=64" width="50">
+                <br>
+                <h2>mohaned nabil</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/moo-noo-618500325/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://curious-dango-e7edaf.netlify.app">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/moo8moo">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- mohaned nabil -->
 </table>
