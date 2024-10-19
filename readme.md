@@ -2310,5 +2310,43 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+<!--// Mustafa Ramadan //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Steve-sy">
+                <img src="https://avatars.githubusercontent.com/u/29111875?v=4" width="50">
+                <br>
+                <h2>Mustafa Ramadan</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/mustafa_ramx">
+                            <img src="./images/twitter-logo.png" width="30" target="_blank">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@MostaphaRamadan" target="_blank">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Steve-sy" target="_blank">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Mustafa RamadanZ //-->
 
 </table>
