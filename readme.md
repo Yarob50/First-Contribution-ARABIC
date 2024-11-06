@@ -2310,5 +2310,35 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!--=== Hisham Eltahawy==-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/HishamEltahawy">
+                <img src="https://avatars.githubusercontent.com/u/29100623?v=4" width="50">
+                <br>
+                <h2>Hisham Eltahawy</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@HishamEltahawy1">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/HishamEltahawy">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= --> 
 </table>
