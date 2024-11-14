@@ -2309,6 +2309,45 @@
             </table>            
         </td>
     </tr>
-    <!--// Mohammad Amin Taha //-->
+    <!--// Mohammad Amin Taha //--> 
+    <!-- === Abdulmajeed Abdulaah === -->
+    <table border="1|0" align="center">
+        <tr>
+            <td align="center" width="600">
+            &nbsp;&nbsp
+                <a href=https://github.com/abmj77>
+                    <img src=https://avatars.githubusercontent.com/u/111255803?v=4 width="50">
+                    <br>
+                    <h2>عبدالمجيد عبدالله</h2>
+                </a>
+                <br>            
+                <table>
+                    <tr> 
+                        <!-- TWITTER -->
+                        <td>
+                            <a href="https://twitter.com/ab_mj77">
+                                <img src=https://sites.coecis.cornell.edu/galelli/files/2023/08/twitter-X.jpg width="35">
+                            </a>
+                        </td>
+                        <!--// TWITTER //-->
+                        <!-- LINKED IN -->
+                        <td>
+                            <a href="https://www.linkedin.com/in/abmj77/">
+                                <img src="./images/linkedin-logo.png" width="30">
+                            </a>
+                        </td>
+                        <!--// LINKED IN //-->
+                        <!-- GITHUB -->
+                        <td>
+                            <a href="https://github.com/abmj77">
+                                <img src="./images/github-logo.png" width="30">
+                            </a>
+                        </td>
+                        <!--// GITHUB //-->
+                    </tr>
+                </table>            
+            </td>
+        </tr>
+        <!-- ======== Abdulmajeed Abdulaah ========= --> 
 
 </table>
