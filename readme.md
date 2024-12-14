@@ -61,7 +61,7 @@
 
 ## ٧- قم باللصق و تحديث البيانات
 
-تأكد من تحديث البيانات بعد اللصق و قم بحدف بيانات حساباتك في المنصات التي لا تريد لها أن تظهر.
+تأكد من تحديث البيانات بعد اللصق و قم بحذف بيانات حساباتك في المنصات التي لا تريد لها أن تظهر.
 
 <img src="images/steps/7.png">
 
@@ -77,7 +77,7 @@
 
 ## ٩- قم بعمل `git add .` و من ثم `git commit` لحفظ التغييرات.
 
-هذا سيقوم بحفظ التغييرات لديك محليا في الجهاز استعدادا لرفعها للمستودع (الخاص بك)
+هذا سيقوم بحفظ التغييرات لديك محلياً في الجهاز استعداداً لرفعها للمستودع (الخاص بك)
 
 <img src="images/steps/9.png">
 
@@ -2310,5 +2310,40 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+       <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/SuL6aN502">
+                <img src="https://avatars.githubusercontent.com/u/127731113?v=4" width="50">
+                <br>
+                <h2>سلطان الدوسري</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/Sultan_0x_0x">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/sultan-al-dossari">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/SuL6aN502">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
 </table>
