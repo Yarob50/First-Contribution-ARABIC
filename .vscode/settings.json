@@ -24,9 +24,13 @@
             "statusBarItem.remoteBackground": "#C6FF00",
             "activityBar.activeBorder": "#C6FF00",
             "tab.activeBorder": "#C6FF00"
+<<<<<<< HEAD
         },
         "activityBar.background": "#382742",
         "titleBar.activeBackground": "#4E375C",
         "titleBar.activeForeground": "#FBF9FC"
+=======
+        }
+>>>>>>> master
     }
 }
