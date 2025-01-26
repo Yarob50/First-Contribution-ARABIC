@@ -211,7 +211,30 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
-    <tr>
+<tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/amineelom">
+                <img src="https://avatars.githubusercontent.com/u/32878868?v=4" width="50">
+                <br>
+                <h2>Amine El</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/amineelom">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
+   <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
