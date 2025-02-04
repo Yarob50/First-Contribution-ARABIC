@@ -2309,6 +2309,46 @@
             </table>            
         </td>
     </tr>
+    === قم بنسخ هذه الجزئية ابتداءً من هذا السطر و انتهاءً بالسطر المذكور في الأسفل ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Kadry333">
+                <img src="https://avatars.githubusercontent.com/u/94625766?v=4" width="50">
+                <br>
+                <h2>Kareem Kadry</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="www.linkedin.com/in/kareem-kadry">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Kadry333">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
     <!--// Mohammad Amin Taha //-->
 
 </table>
