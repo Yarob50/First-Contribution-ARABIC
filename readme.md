@@ -2310,5 +2310,70 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+<<<<<<< HEAD
+    <!--// Aker_1 //-->
+    <tr style="background-color:black">
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/aker-1">
+                <img src="https://avatars.githubusercontent.com/u/202319508?v=4" width="50" style="border-radius:50%;border:1px solid white">
+                <br>
+                <h2 style="color:white">Aker</h2>
+            </a>
+            <h6 style="color:gray">I thinking....I existed</h6>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TELEGRAM -->
+                    <td>
+                        <a href="https://t.me/aker_1">
+                            <img src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" width="30" style="border-radius:4px">
+                        </a>
+                    </td>
+                    <!--// TELEGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/aker-1">
+                            <img src="./images/github-logo.png" width="30" style="border-radius:4px">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+=======
+    <!-- // Aker //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Aker-1">
+                <img src="https://avatars.githubusercontent.com/u/202319508?v=4" width="50" style="border-radius:50%">
+                <br>
+                <h1 style="color:black">Aker</h1>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Aker-1">
+                            <img src="./images/github-logo.png" width="30" style="border-radius:3px">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                    <!--// TELEGRAM //-->
+                    <td>
+                        <a href="https://t.me/aker_1">
+                            <img src="https://cdn-icons-png.freepik.com/256/3536/3536661.png?ga=GA1.1.2084801712.1740466687&semt=ais_hybrid" width="30">
+                        </a>
+                    </td>
+                    <!--// TELEGRAM //-->
+>>>>>>> 23864ad4f912742d6ad39db3b81d435e25a3d45e
+                </tr>
+            </table>            
+        </td>
+    </tr>
+<<<<<<< HEAD
+    <!--// Aker_1 //-->
 
+=======
+    <!-- // Aker //-->
+>>>>>>> 23864ad4f912742d6ad39db3b81d435e25a3d45e
 </table>
