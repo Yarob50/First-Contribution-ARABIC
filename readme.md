@@ -2310,5 +2310,28 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!--// ABDELMALEK LAOUAR //-->
+<tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/abdelmalek-create">
+                <img src="https://avatars.githubusercontent.com/u/67874111?v=4" width="50">
+                <br>
+                <h2>عبد المالك لعور</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a https://github.com/abdelmalek-create">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// ABDELMALEK LAOUAR //-->
 </table>
