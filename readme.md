@@ -2310,5 +2310,28 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+<!-- // isaac mahyoub // -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/isaacmahyoub">
+                <img src="https://avatars.githubusercontent.com/u/196362439?v=4" width="50" alt="Picture">
+                <br>
+                <h2> إسحاق مهيوب</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/isaacmahyoub">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr
+    <!-- //isaac mahyoub // -->
 </table>
