@@ -211,7 +211,61 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
-    <tr>
+    
+
+
+
+<tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/WesamTechnology">
+                <img src="https://avatars.githubusercontent.com/u/208305376?v=4" width="50">
+                <br>
+                <h2>Wesam technology</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://youtube.com/channel/UCkMGJYPeHRR1hx9IP0YT_QQ?si=594yBJ1pHrKcqkAI">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/wesam_technology?igsh=dWN2dHl4eWR6bmFw">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@wesam_technology?_t=ZS-8vfmL5g7aIJ&_r=1">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/WesamTechnology">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
+
+
+
+
+
+
+<tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
@@ -2310,5 +2364,11 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+
+
+
+ 
+
+
 
 </table>
