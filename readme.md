@@ -2309,6 +2309,35 @@
             </table>            
         </td>
     </tr>
-    <!--// Mohammad Amin Taha //-->
+  <!-- // Blal Ramzy // -->
+<tr>
+    <td align="center" width="600">
+        <a href="https://github.com/blalramzy1">
+            <img src="https://avatars.githubusercontent.com/u/113253622?v=4" width="50" alt="GitHub Avatar">
+            <br>
+            <h2>Blal Ramzy</h2>
+        </a>
+        <br>            
+        <table>
+            <tr> 
+                <!-- LINKEDIN -->
+                <td>
+                    <a href="https://www.linkedin.com/in/bilal-ramzy-996883250/">
+                        <img src="https://media.licdn.com/dms/image/D4D35AQG66FMCzK_86Q/profile-framedphoto-shrink_200_200/0/1706256570379?e=1750521600&v=beta&t=axX9zZ6Gs5jJXjqhaqb4Xwi9-IwWkfZJqGZYIj_C8_c" width="30" alt="LinkedIn">
+                    </a>
+                </td>
+                <!-- X (Twitter) -->
+                <td>
+                    <a href="https://x.com/realBlal">
+                        <img src="https://abs.twimg.com/icons/apple-touch-icon-192x192.png" width="30" alt="X (Twitter)">
+                    </a>
+                </td>
+            </tr>
+        </table>            
+    </td>
+</tr>
 
+            </table>            
+        </td>
+    </tr>
 </table>
