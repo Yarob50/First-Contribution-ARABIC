@@ -2300,7 +2300,7 @@
                     <!--// YOUTUBE //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/Mohammad-Taha-Programmer">
+                        <a href="https://github.com/Eng-AhmedKamel1">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
@@ -2310,5 +2310,49 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!-- Ahmed Mahmoud Kamel -->
+         <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Eng-AhmedKamel1">
+                <img src="https://avatars.githubusercontent.com/u/216995710?v=4" width="50">
+                <br>
+                <h2>Ahmed Kamel</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmed-kamel-996aa0271/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/ahmed0000ahme?locale=ar_AR">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tiktok.com%2F%40a.kamel01%3F_t%3D8k2nPUQ7dX3%26_r%3D1%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExcWpLcDNpR1Z1Ym5HSzBhMQEeoL5lh1elqfv2eTSf3LSwjpmKFZBrFHRalzjMyFpBvN-U4xNeiM1FzA2zpl8_aem_PsGeXRUkMO7C6Wj65LoJMw&h=AT31UIShJ_q0WiEAWQzVvcxq4xvhkpe-ATzwe8LVQcBQ2_gwl4Kx9BOvmMLJzc7GhnNCN5TF3Kkle-n2-rocxtMgGDupzjJiduS8O1oQntz_p7Vw2hvzv393MxnUmLnD_aNXxg">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Eng-AhmedKamel1">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Ahmed Mahmoud Kamel -->
 </table>
