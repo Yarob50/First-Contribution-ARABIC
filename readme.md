@@ -1,9 +1,9 @@
 <div align="center">
-	<br>
-	<a href="https://github.com/Yarob50/First-Contribution-ARABIC">
-		<img src="header.svg" width="800" height="400" alt="">
-	</a>
-	<br>
+ <br>
+ <a href="https://github.com/Yarob50/First-Contribution-ARABIC">
+  <img src="header.svg" width="800" height="400" alt="">
+ </a>
+ <br>
 </div>
 
 # طريقة المساهمة
@@ -67,7 +67,7 @@
 
 <br>
 
-## ٨- قم بعمل `git init` في حال لم تقم بالتنزيل باستخدام `git clone...`.
+## ٨- قم بعمل `git init` في حال لم تقم بالتنزيل باستخدام `git clone...`
 
 ستحتاج هذا الأمر في حال اتبعت طريقة التنزيل اليدوية المذكورة في هذا الشرح عن طريق (donwload zip file).
 
@@ -75,7 +75,7 @@
 
 <br>
 
-## ٩- قم بعمل `git add .` و من ثم `git commit` لحفظ التغييرات.
+## ٩- قم بعمل `git add .` و من ثم `git commit` لحفظ التغييرات
 
 هذا سيقوم بحفظ التغييرات لديك محليا في الجهاز استعدادا لرفعها للمستودع (الخاص بك)
 
@@ -154,9 +154,9 @@
                 <br>
                 <h2>يعرُب المصطفى</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/YarHmm">
@@ -207,10 +207,62 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
+            </table>
+        </td>
+    </tr>
+    <!-- ======== نهاية مكان النسخ ========= -->    
+    <!-- Ahmed Saad Alrefaey -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/AhmedSaadRF">
+                <img src="https://avatars.githubusercontent.com/u/211662174?v=4" width="100" style="border-radius: 50%;">
+                <br>
+                <h2>Ahmed Saad Alrefaey</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/ahmed.alrefaey.397073">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/ahmed7_707_7/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AhmedSaadRF">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
             </table>            
         </td>
     </tr>
-    <!-- ======== نهاية مكان النسخ ========= --> 
+    <!-- Ahmed Saad Alrefaey -->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -219,9 +271,9 @@
                 <br>
                 <h2>Yarob Al Mostafa</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/YarHmm">
@@ -258,9 +310,9 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
-    </tr>    
+    </tr>
      <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -269,9 +321,9 @@
                 <br>
                 <h2> Dr. Muhannad Almukhtar </h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/dr-almukhtar">
@@ -280,7 +332,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <tr>
@@ -291,7 +343,7 @@
                 <br>
                 <h2>Saif Saidi</h2>
             </a>
-            <br>            
+            <br>
             <table>
                 <tr>
                     <!-- GITHUB -->
@@ -302,7 +354,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <tr>
@@ -342,7 +394,7 @@
                 <br>
                 <h2> mohamed boukhanouf </h2>
             </a>
-            <br>            
+            <br>
             <table>
                 <tr>
                     <!-- TWITTER -->
@@ -385,9 +437,9 @@
                 <br>
                 <h2>yousha khadra</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/yousha.khadra">
@@ -421,9 +473,9 @@
                 <br>
                 <h2>NinaLoop</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/ninaloop_">
@@ -439,7 +491,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <tr>
@@ -450,9 +502,9 @@
                 <br>
                 <h2>Marouane Chq</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/marouane_chf">
@@ -468,7 +520,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <tr>
@@ -479,9 +531,9 @@
                 <br>
                 <h2>ابراهيم الخطيب</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/awo444">
@@ -504,7 +556,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <tr>
@@ -515,9 +567,9 @@
                 <br>
                 <h2>Maryam Ali</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MaryamA29096677">
@@ -540,7 +592,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <tr>
@@ -551,9 +603,9 @@
                 <br>
                 <h2>محمد محسن</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Mohcine17619305">
@@ -569,7 +621,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- AHMAD SINAN -->
@@ -581,9 +633,9 @@
                 <br>
                 <h2>أحمد السناني</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href=
@@ -634,7 +686,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// AHMAD SINAN //-->
@@ -647,7 +699,7 @@
                 <br>
                 <h2>Mohamed Fayyad</h2>
             </a>
-            <br>            
+            <br>
             <table>
                 <tr>
                     <!-- LINKED IN -->
@@ -665,7 +717,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// FAYYAD //-->
@@ -678,9 +730,9 @@
                 <br>
                 <h2>Mohamed Elseady</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MohElseady">
@@ -717,7 +769,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// MOHAMMED ALSAEADY //-->
@@ -730,9 +782,9 @@
                 <br>
                 <h2>muha</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/muhammed-khalid-2058b5251/">
@@ -748,7 +800,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- MUHA -->
@@ -760,9 +812,9 @@
                 <br>
                 <h2>محمد مصطفى</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Mohammed-Berir">
@@ -771,7 +823,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- HamzaDev -->
@@ -783,9 +835,9 @@
                 <br>
                 <h2>HamzaDev //HamzaElkotb</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/HamzaElkotp">
@@ -829,7 +881,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- HamzaDev -->
@@ -842,9 +894,9 @@
                 <br>
                 <h2>Abdulkerim Awad</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/abdulkerim-awad">
@@ -875,7 +927,7 @@
                     </td>
                     <!--// stackoverflow //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // ABDULKARIM // -->
@@ -888,9 +940,9 @@
                 <br>
                 <h2>Zakaria Mameri</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/zakaria-mameri-149b13222/">
@@ -906,7 +958,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- Zakaria -->
@@ -919,9 +971,9 @@
                 <br>
                 <h2>Amir Gendy Botros</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/amir_gendy">
@@ -951,7 +1003,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- Amir Gendy Botros -->
@@ -964,9 +1016,9 @@
                 <br>
                 <h2>اويس بخاري</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/OwisBukhari">
@@ -989,7 +1041,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// OWIS BUKHARI //-->
@@ -1002,9 +1054,9 @@
                 <br>
                 <h2>Ayman Ismail</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/rebestx">
@@ -1041,7 +1093,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- ReBestX -->
@@ -1054,9 +1106,9 @@
                 <br>
                 <h2>عبدالهادي ال بوسنينه</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/a7sa45">
@@ -1107,7 +1159,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- @a7sa45 -->
@@ -1120,9 +1172,9 @@
                 <br>
                 <h2>Wesam Abutaima</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Wesam_Abutaima">
@@ -1173,7 +1225,7 @@
                     </td>
                     <!--// mostaql //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// WESSAM //-->
@@ -1186,7 +1238,7 @@
                 <br>
                 <h2>عمر</h2>
             </a>
-            <br>            
+            <br>
             <table>
                 <tr>
                     <!-- LINKED IN -->
@@ -1204,7 +1256,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Omar //-->
@@ -1217,9 +1269,9 @@
                 <br>
                 <h2>هاشم محمد</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/profile.php?id=100069366840910">
@@ -1235,7 +1287,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// HASHIM //-->
@@ -1248,9 +1300,9 @@
                 <br>
                 <h2>Assem Saeed</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/xAssomy">
@@ -1287,7 +1339,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // Assem Saeed // -->
@@ -1300,9 +1352,9 @@
                 <br>
                 <h2>The Warchief</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/TKuubi">
@@ -1332,7 +1384,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Thamer //-->
@@ -1345,9 +1397,9 @@
                 <br>
                 <h2>ابراهيم محمد</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/linux_rust">
@@ -1384,7 +1436,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// IBRAHIM //-->
@@ -1397,9 +1449,9 @@
                 <br>
                 <h2>TARIQ AIT LAKHLIFT</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/abdulkerim-awad">
@@ -1415,7 +1467,7 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // TARIQ // -->
@@ -1428,9 +1480,9 @@
                 <br>
                 <h2>Zouari Mehdi</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                 <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/zouari-mehdi-b483bb220/">
@@ -1453,7 +1505,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- MEHDI -->
@@ -1466,9 +1518,9 @@
                 <br>
                 <h2>حسن ياسر</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/itskahrba">
@@ -1500,7 +1552,7 @@
                     </td>
                     <!--// mostaql //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// HASAN  //-->
@@ -1513,9 +1565,9 @@
                 <br>
                 <h2>احمد الحربي</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/AHMADM6310">
@@ -1538,7 +1590,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Ahmad //-->
@@ -1551,9 +1603,9 @@
                 <br>
                 <h2> Mohammed Bahusayn </h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/MBahusayn">
@@ -1576,7 +1628,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// MBahusayn //-->
@@ -1589,9 +1641,9 @@
                 <br>
                 <h2> Muhammed Jolaq </h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Jolak227">
@@ -1621,10 +1673,10 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
-    <!--// JOLAQ //-->                  
+    <!--// JOLAQ //-->
     <!--// Zyadfallatah //-->
     <tr>
         <td align="center" width="600">
@@ -1634,9 +1686,9 @@
                 <br>
                 <h2>zyadfallatah</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/zyad_fallatah">
@@ -1659,7 +1711,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Zyadfallatah //-->
@@ -1672,9 +1724,9 @@
                 <br>
                 <h2> Badr Alwattar </h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/badr_alwattar">
@@ -1697,10 +1749,10 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
-    <!--// Badr Alwattar //--> 
+    <!--// Badr Alwattar //-->
     <!--// Mohamed CHAKIR //-->
     <tr>
         <td align="center" width="600">
@@ -1710,9 +1762,9 @@
                 <br>
                 <h2>Mohamed CHAKIR</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/ChakirMohamed/">
@@ -1728,7 +1780,7 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Mohamed CHAKIR //-->
@@ -1740,7 +1792,7 @@
                 <br>
                 <h2>Abdelrahman Abu Zahra</h2>
             </a>
-            <br>            
+            <br>
             <table>
                 <tr>
                     <!--// LINKEDIN //-->
@@ -1758,7 +1810,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Abdelrahman A.Z //-->
@@ -1771,9 +1823,9 @@
                 <br>
                 <h2>Rabil Ibraile</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/rabil-ibraiel-b37646215/">
@@ -1789,7 +1841,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // Rabil Ibraiel // -->
@@ -1802,9 +1854,9 @@
                 <br>
                 <h2>Mohamed Ramadn</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/mohamed404eg">
@@ -1834,7 +1886,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // MOHAMMED // -->
@@ -1847,7 +1899,7 @@
                 <br>
                 <h2>حنان  Hanane</h2>
             </a>
-            <br>            
+            <br>
             <table>
                 <tr>
                     <!-- GITHUB -->
@@ -1858,7 +1910,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// HANNANE //-->
@@ -1871,9 +1923,9 @@
                 <br>
                 <h2>Ahmed Maadh</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/AhmedMaadh7">
@@ -1889,7 +1941,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // Ahmed Maadh // -->
@@ -1902,9 +1954,9 @@
                 <br>
                 <h2>Billal Benzazoua</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- TWITTER -->
                     <td>
                         <a href="https://twitter.com/Benzazouabillal">
@@ -1934,7 +1986,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- billal benzazoua -->
@@ -1947,9 +1999,9 @@
                 <br>
                 <h2>Maram Saeed</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/maram-saeed">
@@ -1958,7 +2010,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- // Maram Saeed // -->
@@ -1971,9 +2023,9 @@
                 <br>
                 <h2>KHULOUD ALSHAMMARI</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/khuloudAlshammari/Forked">
@@ -1989,7 +2041,7 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// KHULOUD ALSHAMMARI //-->
@@ -2002,9 +2054,9 @@
                 <br>
                 <h2>Rayen Nasser</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Rayen-nasser/">
@@ -2027,7 +2079,7 @@
                     </td>
                     <!--// TWITTER //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Rayen Nasser //-->
@@ -2040,9 +2092,9 @@
                 <br>
                 <h2>Saud Alghamdi</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Saud-Alghamdi/">
@@ -2058,7 +2110,7 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Saud Alghamdi //-->
@@ -2071,9 +2123,9 @@
                 <br>
                 <h2>Haidar Emad Abdo</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/HaidarEmadAbdo">
@@ -2089,7 +2141,7 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Haidar Abdo //-->
@@ -2140,9 +2192,9 @@
                 <br>
                 <h2>Raouf kamel</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/raouf-kamel/">
@@ -2158,11 +2210,11 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Raouf kamel //-->
-    <!--Usaid Alhadeethi--> 
+    <!--Usaid Alhadeethi-->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2171,9 +2223,9 @@
                 <br>
                 <h2>Usaid Alhadeethi</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/usaidalhadeethi">
@@ -2182,7 +2234,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--Usaid Alhadeethi-->
@@ -2195,9 +2247,9 @@
                 <br>
                 <h2>yasser korzane</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/yasseresi">
@@ -2213,10 +2265,10 @@
                     </td>
                     <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
-    <!--// yasser korzane //--> 
+    <!--// yasser korzane //-->
     <!--// Ahmad95 // -->
     <tr>
         <td align="center" width="600">
@@ -2226,9 +2278,9 @@
                 <br>
                 <h2>Ahmad Alhadidi</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AhmadAlhadidi95">
@@ -2244,10 +2296,10 @@
                     </td>
                     <!--// TWITTER //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
-	<!--// Ahmad95 // -->
+ <!--// Ahmad95 // -->
     <!--// youssefDev //-->
     <tr>
         <td align="center" width="600">
@@ -2257,9 +2309,9 @@
                 <br>
                 <h2>youssefDev</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/yusufDev/">
@@ -2268,7 +2320,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// youssefDev //-->
@@ -2281,9 +2333,9 @@
                 <br>
                 <h2>محمد أمين طه</h2>
             </a>
-            <br>            
+            <br>
             <table>
-                <tr> 
+                <tr>
                     <!-- LINKED IN -->
                     <td>
                         <a href="https://www.linkedin.com/in/mohammad-taha-192bb8225/">
@@ -2306,7 +2358,7 @@
                     </td>
                     <!--// GITHUB //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
