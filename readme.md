@@ -2309,6 +2309,61 @@
             </table>            
         </td>
     </tr>
-    <!--// Mohammad Amin Taha //-->
+                <!--// Mohammad Amin Taha //-->
+
+                <!--// asmaa adass //-->
+
+<tr>
+    <td align="center" width="600">
+        &nbsp;&nbsp;
+        <a href="https://github.com/codingmento">
+            <img src="https://avatars.githubusercontent.com/u/198931034?s=400&u=a5e6fc07a1c35e51ab642359d47d2d581f14b68e&v=4" width="50">
+            <br>
+            <h2>أسماء عدس</h2>
+        </a>
+        <br>
+        <table>
+            <tr>
+                <!-- TWITTER -->
+                <td>
+                    <a href="https://x.com/CodingMent">
+                        <img src="./images/twitter-logo.png" width="30">
+                    </a>
+                </td>
+                <!-- LINKED IN -->
+                <td>
+                    <a href="https://www.linkedin.com/in/asmaa-adass-a798a435b">
+                        <img src="./images/linkedin-logo.png" width="30">
+                    </a>
+                </td>
+                <!-- YOUTUBE -->
+                <td>
+                    <a href="https://www.youtube.com/@asmaa._.c">
+                        <img src="./images/youtube-logo.png" width="30">
+                    </a>
+                </td>
+                <!-- INSTAGRAM -->
+                <td>
+                    <a href="https://www.instagram.com/coding_mento">
+                        <img src="./images/instagram-logo.png" width="30">
+                    </a>
+                </td>
+                <!-- TIK TOK -->
+                <td>
+                    <a href="https://www.tiktok.com/@coding.mento">
+                        <img src="./images/tik-tok-logo.png" width="30">
+                    </a>
+                </td>
+                <!-- GITHUB -->
+                <td>
+                    <a href="https://github.com/codingmento">
+                        <img src="./images/github-logo.png" width="30">
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--// Asmaa Adass //-->
 
 </table>
