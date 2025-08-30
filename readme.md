@@ -2310,5 +2310,36 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- ATechproC -->
+        <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ATechproC">
+                <img src="hhttps://media.licdn.com/dms/image/v2/D4E03AQF6D3olAj0i1g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701463225369?e=1759363200&v=beta&t=jX0aqckKc-RUwnYqMVncER4veEHldLPYWc4VwvDMpEA width="50">
+                <br>
+                <h2>A_Techpro_C</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/anass-choraichi-80a403267/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ATechproCob50">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// ATechproC // -->
 
 </table>
