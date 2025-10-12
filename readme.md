@@ -2309,6 +2309,35 @@
             </table>            
         </td>
     </tr>
-    <!--// Mohammad Amin Taha //-->
+    <!--// yahya alhaifi //-->
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/yahya659">
+                <img src="https://media.licdn.com/dms/image/v2/D4E35AQFyMsz56N9IFQ/profile-framedphoto-shrink_400_400/B4EZk2HE9UKoAc-/0/1757549449346?e=1760839200&v=beta&t=eeuakYyBfbH-Hs_cwTfByOucuqOPXHy0kE3NIa4GGbE" width="50">
+                <br>
+                <h2>Yahya Ahmed AL-haifi</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/yahya-alhaifi-81b886374/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/yahya659">
+                            <img src="./images/github-logo.png" width="30">
+                        </a> 
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
 
 </table>
