@@ -2332,7 +2332,7 @@
                     <td>
                         <a href="https://github.com/yahya659">
                             <img src="./images/github-logo.png" width="30">
-                        </a>
+                        </a> 
                     </td>
                     <!--// GITHUB //-->
                 </tr>
