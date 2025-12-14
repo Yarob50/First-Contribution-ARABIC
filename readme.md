@@ -2310,5 +2310,70 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!--Abdealkareem-->
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/abed-jabji">
+                <img src="https://avatars.githubusercontent.com/u/139707079?v=4" width="50">
+                <br>
+                <h2>Abdealkareem</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/abed-jabji">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    
+    <!--//Abdealkareem//-->
 </table>
