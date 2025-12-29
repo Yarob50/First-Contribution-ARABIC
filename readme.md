@@ -211,7 +211,7 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
-    <tr>
+   <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/yarob55">
@@ -2310,5 +2310,33 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+	<!--// Anas abderrahimi //-->
+	<tr>
+    <td align="center" width="600">
+        <br>
+        <img src="https://avatars.githubusercontent.com/u/192244199?v=4" width="80" style="border-radius: 50%;">
+        <br>
+        <h2>Anas Abderrahimi</h2>
+        <p>Cybersecurity Analyst & Full-Stack Developer</p>
+        <br>            
+        <table>
+            <tr> 
+                <td>
+                    <a href="https://www.linkedin.com/in/anas-opp-96a477394">
+                        <img src="./images/linkedin-logo.png" width="30">
+                    </a>
+                </td>
+                <td>&nbsp;&nbsp;</td>
+                <td>
+                    <a href="https://github.com/AnasRm01">
+                        <img src="./images/github-logo.png" width="30">
+                    </a>
+                </td>
+                </tr>
+        </table>            
+    </td>
+</tr>
+<!--// Anas abderrahimi //-->
+
 
 </table>
