@@ -2310,5 +2310,36 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- Ibrahim Ajanji -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ibraham7">
+                <img src="https://avatars.githubusercontent.com/u/177887992?v=4" width="50">
+                <br>
+                <h2>Ibrahim Ajanji</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B9%D8%AC%D9%86%D8%AC%D9%8A-66a46b3a1/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ibraham7">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Ibrahim Ajanji //-->
 
 </table>
