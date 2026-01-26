@@ -2310,5 +2310,36 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!--// Mohammed Aroui //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohammed-Aroui">
+                <img src="https://avatars.githubusercontent.com/u/186099508?s=48&v=4" width="50">
+                <br>
+                <h2>Mohammed Aroui</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohammed-aroui-a79137333">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Mohammed-Aroui">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Mohammed Aroui //-->
 
 </table>
