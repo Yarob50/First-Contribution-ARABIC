@@ -2310,5 +2310,36 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- //Mohamad Bashir // -->
+      <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/moh-bash">
+                <img src="https://avatars.githubusercontent.com/u/218136962?v=4" width="50">
+                <br>
+                <h2>Mohamad Bashir</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohamad-bashir/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/moh-bash">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- //Mohamad Bashir // -->
 
 </table>
