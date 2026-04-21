@@ -2310,5 +2310,49 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+        <!--// Abdallah Emad Ragab //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://avatars.githubusercontent.com/u/108474273?v=4" width="50">
+                <br>
+                <h2>Abdallah Emad Ragab</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/profile.php?id=61577038830153">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdallah-emad-ragab-96b790297/ar/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/channel/UCAWrgTggm1SvtC3pVTINKGw">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AbdallahEmadEl3alamy">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Abdallah Emad Ragab //-->
 
 </table>
