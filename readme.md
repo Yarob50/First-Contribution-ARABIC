@@ -2310,5 +2310,35 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+    <!--// SyrianFox //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/raouf-kamel">
+                <img src="https://avatars.githubusercontent.com/u/49928797?v=4" width="50">
+                <br>
+                <h2>SyrianFox</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/syrianfox">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //--> 
+                      <!-- Twitter -->
+                    <td>
+                        <a href="https://x.com/96Syrianfox">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- // Twitter // -->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- SyrianFox -->
 </table>
