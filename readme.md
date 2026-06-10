@@ -214,6 +214,42 @@
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
+            <a href="https://github.com/hafez-12">
+                <img src="https://avatars.githubusercontent.com/u/237123766?v=4" width="50">
+                <br>
+                <h2>حافظ ابراهيم </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/share/1CiCobAtsa/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/f_7vn?igsh=MXRscmtsOHk2NnA0cQ==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/hafez-12">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
             <a href="https://github.com/yarob55">
                 <img src="https://avatars.githubusercontent.com/u/32878868?v=4" width="50">
                 <br>
