@@ -2310,5 +2310,43 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!-- Ahmad Alrashdan 19 -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Yarob50">
+                <img src="https://avatars.githubusercontent.com/u/137115943?v=4" width="50">
+                <br>
+                <h2>أحمد الرشدان</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmad-alrashdan-860a3a374/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/ahmad.iot.yu/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AhmadAlrashdan19">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Ahmad Alrashdan 19 //-->
 
 </table>
