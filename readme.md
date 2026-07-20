@@ -2310,5 +2310,35 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
+<!--// Mohamed Gaballah //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/MGaballh">
+                <img src="https://avatars.githubusercontent.com/u/235196430?v=4" width="50">
+                <br>
+                <h2>Mohamed Gaballah</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohamed-gaballah-277460396/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BA%2FhnFEtSRCexHSORcdhDfw%3D%3D#">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/MGaballh">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Mohammad Amin Taha //-->
 </table>
