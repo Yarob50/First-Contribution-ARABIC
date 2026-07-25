@@ -2334,20 +2334,7 @@
                         <a href="https://www.linkedin.com/in/mohamed-mostafa-4175032a3/">
                             <img src="./images/linkedin-logo.png" width="30">
                         </a>
-                    </td>
-                    <!--// LINKED IN //-->
-                    <!-- YOUTUBE -->
-                    
-                    <!--// YOUTUBE //-->
-                    <!-- FACEBOOK -->
-                    
-                    <!--// FACEBOOK //-->
-                    <!-- INSTAGRAM -->
-                    
-                    <!--// INSTAGRAM //-->
-                    <!-- TIK TOK -->
-                    
-                    <!--// TIK TOK //-->
+                    </td> 
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/Mo7amedMostafa2005">
