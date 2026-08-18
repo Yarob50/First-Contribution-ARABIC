@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/Yarob50/First-Contribution-ARABIC">
-		<img src="header.svg" width="800" height="400" alt="">
+		<img src="header.svg" width="700" height="350" alt="طريقة المساهمة">
 	</a>
 	<br>
 </div>
@@ -2310,5 +2310,50 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!--// Ammar Al-Najjar //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Ammar-1993">
+                <img src="https://avatars.githubusercontent.com/u/91396720?v=4" width="50">
+                <br>
+                <h2>عمار النجار </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/v8i6RI6gRQHo769/">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ammar-al-najjar-0b7b941b6/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/share/1Bd3bYgomM/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Ammar-1993">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// Ammar Al-Najjar  //-->
 
 </table>
