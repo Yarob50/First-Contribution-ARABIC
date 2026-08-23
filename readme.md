@@ -260,7 +260,45 @@
                 </tr>
             </table>            
         </td>
-    </tr>    
+    </tr> 
+        <!--== Zein Barbar ===-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/zein-dev0">
+                <img src="https://avatars.githubusercontent.com/u/267646995?v=4" width="50">
+                <br>
+                <h2>Zein Barbar</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/share/1D2ac9G3EC/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/dev_zein0?igsh=MXgwdmRkaGZqcjRiaA==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/zein-dev0">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- ======== Zein Barbar ========= -->    
      <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
