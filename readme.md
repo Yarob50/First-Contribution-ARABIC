@@ -260,6 +260,49 @@
                 </tr>
             </table>            
         </td>
+    </tr>
+    <tr>
+     <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/hantre234-cpu">
+                <img src="https://media.licdn.com/dms/image/v2/D4D03AQG-1i0De8zlog/profile-displayphoto-crop_800_800/B4DZs1xScKIgAI-/0/1766133673556?e=1788998400&v=beta&t=T2-U_eDSRtU4sXgDrCeGFBag-2gGu8Aw1bIpCPbsQ5I" width="50">
+                <br>
+                <h2>شقاليل محمد الامين </h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/mohammed-el-amin-chekalil-723a04391/?      lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhIV1KnOfQZ%2BKlM3YYeks%2Bg%3D%3D">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/amin.ch.chekalil">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/mohamed_elamin999?fbclid=IwY2xjawT7CIJwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMUdOckE2ZHhxZ2VNZUttZThzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEehON50DDbUfogobq-zc9OFyHzd3ecjo9W4s3Qlv4r3KKcMvmxAzOKggqaoTU_aem_uUna-VCNwOw1lwypeyL6kQ">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/hantre234-cpu">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
     </tr>    
      <tr>
         <td align="center" width="600">
