@@ -2311,4 +2311,44 @@
     </tr>
     <!--// Mohammad Amin Taha //-->
 
+     <!--// Hussein Mutaher Qaid //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Hussein1423">
+                <img src="https://avatars.githubusercontent.com/u/79037022?v=4" width="50">
+                <br>
+                <h2>حسين مطهر قايد</h2>
+            </a>
+            <br>
+            <table>
+                <tr>
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/husseinqaid/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Hussein1423">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+
+                     <!-- Portfolio -->
+                    <td>
+                        <a href="https://hussein1423.github.io/Portfolio/">
+                            <img src="./images/Portfolio-Logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// Portfolio //-->
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <!--// Hussein Mutaher Qaid //-->
+
 </table>
