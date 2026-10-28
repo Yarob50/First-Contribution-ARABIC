@@ -2311,8 +2311,7 @@
     </tr>
     <!--// Mohammad Amin Taha //-->
 
-
-    <tr>
+<tr>
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/AbdulmalekAli60">
@@ -2337,7 +2336,6 @@
                         </a>
                     </td>
                     <!--// LINKED IN //-->
-                    
                     <!-- GITHUB -->
                     <td>
                         <a href="https://github.com/AbdulmalekAli60">
@@ -2349,8 +2347,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2401,8 +2397,6 @@
             </table>
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2439,8 +2433,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2470,8 +2462,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2509,8 +2499,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2540,8 +2528,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2585,8 +2571,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2623,8 +2607,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2682,8 +2664,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2734,8 +2714,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2772,8 +2750,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2804,8 +2780,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2828,8 +2802,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2873,8 +2845,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2932,8 +2902,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr> 
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2968,8 +2936,6 @@
             </table>
         </td>   
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3013,8 +2979,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3072,8 +3036,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3103,8 +3065,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3134,8 +3094,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3165,8 +3123,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3196,8 +3152,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3234,8 +3188,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3258,8 +3210,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3296,8 +3246,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3334,8 +3282,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3372,8 +3318,6 @@
             </table>
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3417,8 +3361,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3462,8 +3404,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3506,8 +3446,6 @@
             </table>
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3544,8 +3482,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3589,8 +3525,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3620,8 +3554,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3658,8 +3590,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr  style=" box-shadow: 0 0 10px #ddd">
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3695,8 +3625,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3707,8 +3635,6 @@
             </a>                       
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
             &nbsp;&nbsp
@@ -3738,8 +3664,6 @@
             </table>
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3769,8 +3693,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
          &nbsp;&nbsp
@@ -3781,8 +3703,6 @@
             </a>  
        </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3812,8 +3732,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3857,8 +3775,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3888,8 +3804,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3912,8 +3826,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3951,8 +3863,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -3982,8 +3892,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4027,8 +3935,6 @@
             </table>
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4058,8 +3964,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4089,8 +3993,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4127,8 +4029,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4172,8 +4072,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4203,8 +4101,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4241,8 +4137,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4272,8 +4166,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4309,8 +4201,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4347,8 +4237,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4378,8 +4266,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4405,7 +4291,6 @@
                         </a>
                     </td>
                     <!--// GITHUB //-->
-
                      <!-- Portfolio -->
                     <td>
                         <a href="https://hussein1423.github.io/Portfolio/">
@@ -4417,8 +4302,6 @@
             </table>
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4476,8 +4359,6 @@
             </table>            
         </td>
     </tr>
-
-
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -4514,5 +4395,4 @@
             </table>            
         </td>
     </tr>
-
 </table>
