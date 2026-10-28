@@ -2933,4 +2933,40 @@
         </td>
     </tr>
 
+
+    <tr> 
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/abdessamad51">
+                <img src="https://avatars.githubusercontent.com/u/111075371?v=4" width="50">
+                <br>
+                <h2>Abdessamad Rami</h2>
+            </a>
+            <br>            
+            <table>
+               <!-- TWITTER -->
+                <td>
+                    <a href="https://twitter.com/Abdessamad62629">
+                        <img src="./images/twitter-logo.png" width="30">
+                    </a>
+                </td>
+                <!--// TWITTER //-->
+                <!-- LINKED IN -->
+                <td>
+                    <a href="https://www.linkedin.com/in/abdessamad-rami/">
+                        <img src="./images/linkedin-logo.png" width="30">
+                    </a>
+                </td>
+                <!--// LINKED IN //-->
+                <!-- GITHUB -->
+                <td>
+                    <a href="https://github.com/abdessamad51">
+                        <img src="./images/github-logo.png" width="30">
+                    </a>
+                </td>
+                <!--// GITHUB //-->
+            </table>
+        </td>   
+    </tr>
+
 </table>
