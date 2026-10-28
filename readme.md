@@ -3659,4 +3659,41 @@
         </td>
     </tr>
 
+
+    <tr  style=" box-shadow: 0 0 10px #ddd">
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Rashidy24">
+                <img src="https://avatars.githubusercontent.com/u/165313756?v=4" width="70" style="border-radius: 50%; box-shadow: 0 0 10px #ddd">
+                <br>
+                <h2 style="color: #fff;">Mostafa Elrashidy</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <td>
+                        <a href="https://www.linkedin.com/in/moustafa-el-rashidy-10240b324/">
+                            <img src="./images/linkedin-logo.png" width="40">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.youtube.com/@MoustafaElrashidy">
+                            <img src="./images/youtube-logo.png" width="40">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://www.facebook.com/share/15s615uaCb/">
+                            <img src="./images/facebook-logo.png" width="40">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/Rashidy24">
+                            <img src="./images/github-logo.png" width="40">
+                        </a>
+                    </td>
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
