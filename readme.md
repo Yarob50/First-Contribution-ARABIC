@@ -3135,4 +3135,35 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/yabouzeid">
+                <img src="https://avatars.githubusercontent.com/u/177817550?v=4" width="50">
+                <br>
+                <h2>Youssef Abouzeid</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/ymabouzeid/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/yabouzeid">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
