@@ -3739,4 +3739,35 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/OsamahBagah-Backend">
+                <img src="https://avatars.githubusercontent.com/u/213698677?v=4" width="50">
+                <br>
+                <h2>أسامة عمر باجاه</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/%D8%A7%D8%B3%D8%A7%D9%85%D9%87-%D8%A8%D8%A7%D8%B5%D8%B1%D9%8A%D8%AD-153680263/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/OsamahBagah-Backend">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
