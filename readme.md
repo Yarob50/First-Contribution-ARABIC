@@ -2310,6 +2310,30 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
+    <!--// osaros //-->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/osa-ros">
+                <img src="https://pbs.twimg.com/media/F33zQc4WsAAss6e.jpg" width="50">
+                <br>
+                <h2>Osaros</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/osa-ros">
+                            <img src="https://pbs.twimg.com/media/F33zQc4WsAAss6e.jpg" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!--// osaros //-->
 
 <tr>
         <td align="center" width="600">
