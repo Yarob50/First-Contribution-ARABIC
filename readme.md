@@ -211,6 +211,45 @@
         </td>
     </tr>
     <!-- ======== نهاية مكان النسخ ========= --> 
+     <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/MoussaBenboudina">
+                <img src="https://avatars.githubusercontent.com/u/121502039?v=4" width="50">
+                <br>
+                <h2>Ben Boudina Moussa</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/b.b.moussa">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/b.b.moussa">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/MoussaBenboudina">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                </tr>
+            </table>            
+        </td>
+    </tr>
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
