@@ -3014,4 +3014,63 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/anisharkat">
+                <img src="https://f.top4top.io/p_3122qu4vo1.jpg" width="50">
+                <br>
+                <h2>Anis Harkat</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/_anisharkat">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@AnisHarkat">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/dhia.eddine.harkat">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/anis_harkat">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@anis_harkat">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/anisharkat">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
