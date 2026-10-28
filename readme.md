@@ -3590,4 +3590,35 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://abdelhak-ch.github.io/kasper-Templet/">
+                <img src="https://avatars.githubusercontent.com/u/163315420?s=400&u=4d9ad2422ee465c6fe51fcdd547fe4c9a0a662aa&v=4" width="50">
+                <br>
+                <h2>عبد الحق</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%82-%D8%B4%D9%82%D8%B1%D8%A7%D8%B1-21a6152b0/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/abdelhak-ch/">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
