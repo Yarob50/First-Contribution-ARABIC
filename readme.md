@@ -3889,4 +3889,28 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/amine24lucarion">
+                <img src="https://avatars.githubusercontent.com/u/174968741?s=400&u=2c7c187efa6263d60d52b60866be1321ca0c805f&v=4" width="50">
+                <br>
+                <h2>Amine</h2>
+            </a>
+            <br>            
+            <table>
+                <tr>
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/amine24lucarion">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
