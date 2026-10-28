@@ -3166,4 +3166,35 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/KhalidPS">
+                <img src="https://avatars.githubusercontent.com/u/134645702?s=400&u=69422532cc5e835f5e9cc036b56281218d981cd6&v=4" width="50">
+                <br>
+                <h2>خالد أحمد</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/khalid_aqs2/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/KhalidPS">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
