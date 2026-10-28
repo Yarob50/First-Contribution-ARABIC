@@ -3621,4 +3621,42 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/yellouz">
+                <img src="https://avatars.githubusercontent.com/u/172646196?v=4" width="50">
+                <br>
+                <h2>Youssef Ellouz</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/youssef-ellouz-a01144259/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/channel/UCElimG9hqO8-G0Crl468WEA">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/yellouz">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
