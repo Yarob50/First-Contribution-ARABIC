@@ -3297,4 +3297,42 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/MSeif93">
+                <img src="https://avatars.githubusercontent.com/u/179124640?v=4" width="50">
+                <br>
+                <h2>Mohamed Seif</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/%F0%9D%95%84%F0%9D%95%A0%F0%9D%95%99%F0%9D%95%92%F0%9D%95%9E%F0%9D%95%96%F0%9D%95%95-%F0%9D%95%8A%F0%9D%95%96%F0%9D%95%9A%F0%9D%95%97-a4879b6b/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/mohamed.seif.1993">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/MSeif93">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
