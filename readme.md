@@ -3913,4 +3913,43 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/aymen-igri">
+                <img src="https://avatars.githubusercontent.com/u/187060317?s=400&u=7d15e0090ece4acd0cbadaaa5db131d27bd43200&v=4" width="50">
+                <br>
+                <h2>أيْمَن إڭْرِي</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/Vampire68994979">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/aymen-igri-8b6167304/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/aymen-igri">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+                <!--// Aymen IGRI //-->
+            </table>            
+        </td>
+    </tr>
+
 </table>
