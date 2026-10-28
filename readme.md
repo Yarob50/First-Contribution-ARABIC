@@ -2969,4 +2969,49 @@
         </td>   
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/ynstf">
+                <img src="https://youness-atif.vercel.app/static/imgs/avatari.png" width="80">
+                <br>
+                <h2>Youness ATIF</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ynstf/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+        	        <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/ynstf">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/ynstf2020?igsh=MTN3a2hvMmhwZ2hxeQ==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/ynstf">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
