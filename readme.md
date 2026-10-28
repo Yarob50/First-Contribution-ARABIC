@@ -3373,4 +3373,49 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/abdelkabir-re">
+                <img src="https://avatars.githubusercontent.com/u/185644166?v=4" width="50">
+                <br>
+                <h2> Abdelkabir rabie</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/abdelkabir-rabie-8656a3314/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/abdelkabir.rabie.37?locale=fr_FR">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/abdelkabir_rabie?igsh=MWxndDI5bHF6bTBxbQ==">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/abdelkabir-re">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
