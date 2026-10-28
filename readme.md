@@ -4418,4 +4418,63 @@
         </td>
     </tr>
 
+
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Ahmed9030">
+                <img src="https://avatars.githubusercontent.com/u/85316127?v=4" width="50">
+                <br>
+                <h2>Ahmed Gomaa</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://x.com/AhmedGo38801857">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmed-gomaa99">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- YOUTUBE -->
+                    <td>
+                        <a href="https://www.youtube.com/@ahmedgomaa2060">
+                            <img src="./images/youtube-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// YOUTUBE //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/ahmed_o9o9/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- TIK TOK -->
+                    <td>
+                        <a href="https://www.tiktok.com/@ahmed_gomaa9999">
+                            <img src="./images/tik-tok-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TIK TOK //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/Ahmed9030">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+
 </table>
