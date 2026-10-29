@@ -2309,6 +2309,37 @@
             </table>            
         </td>
     </tr>
+    <!--// Mohammad Amin Taha //-->    
+    <!-- Bouabou Heithem-->    
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/Mohammad-Taha-Programmer">
+                <img src="https://www.adobe.com/acrobat/hub/media_12b27eb701c9843393ecfa9277ba172d6bbf08cfe.jpeg?width=1200&format=pjpg&optimize=medium" width="50">
+                <br>
+                <h2>Boubaou Heithem</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/boubaou-heithem-41a667220/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://www.facebook.com/elhei.them/">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
     <!--// Mohammad Amin Taha //-->
 
 <tr>
